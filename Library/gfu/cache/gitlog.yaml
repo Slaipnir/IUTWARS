@@ -11,10 +11,2737 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-30T12:50:55.0330229+01:00
-  lastVerifiedAtString: 2018-01-30T12:50:55.0330229+01:00
-  initializedAtString: 2018-01-30T12:48:37.1566532+01:00
+  lastUpdatedAtString: 2018-02-06T11:23:30.7144321+01:00
+  lastVerifiedAtString: 2018-02-06T11:23:30.7144321+01:00
+  initializedAtString: 2018-02-06T11:23:27.1341085+01:00
   log:
+  - commitID: a673842bf613ff582d5192b993b5e2c878ae1cd2
+    mergeA: 
+    mergeB: 
+    authorName: Slaipnir
+    authorEmail: pvillemain@hotmail.fr
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: menu4
+    description: menu4
+    timeString: 2018-02-06T11:18:31.0000000+01:00
+    commitTimeString: 2018-02-06T11:18:31.0000000+01:00
+    changes:
+    - path: Assets\AssetMenu.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu.meta"
+      projectPath: Assets\AssetMenu.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\MainMenu.cs
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\MainMenu.cs"
+      projectPath: Assets\MainMenu.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\MainMenu.cs.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\MainMenu.cs.meta"
+      projectPath: Assets\MainMenu.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scene.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\Scene.meta"
+      projectPath: Assets\Scene.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scene\MainMenu.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\Scene\\MainMenu.unity"
+      projectPath: Assets\Scene\MainMenu.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scene\MainMenu.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\Scene\\MainMenu.unity.meta"
+      projectPath: Assets\Scene\MainMenu.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 8ee26eb58ba110c30d0e72e14bd900a7fa4b3b91
+    mergeA: 
+    mergeB: 
+    authorName: Slaipnir
+    authorEmail: pvillemain@hotmail.fr
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: menu3
+    description: menu3
+    timeString: 2018-02-06T11:16:40.0000000+01:00
+    commitTimeString: 2018-02-06T11:16:40.0000000+01:00
+    changes:
+    - path: Assets\AssetMenu\Animation\MainMenu.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\MainMenu.meta"
+      projectPath: Assets\AssetMenu\Animation\MainMenu.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\MainMenu\Closed.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\MainMenu\\Closed.anim"
+      projectPath: Assets\AssetMenu\Animation\MainMenu\Closed.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\MainMenu\Closed.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\MainMenu\\Closed.anim.meta"
+      projectPath: Assets\AssetMenu\Animation\MainMenu\Closed.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\MainMenu\MainMenu.controller
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\MainMenu\\MainMenu.controller"
+      projectPath: Assets\AssetMenu\Animation\MainMenu\MainMenu.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\MainMenu\MainMenu.controller.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\MainMenu\\MainMenu.controller.meta"
+      projectPath: Assets\AssetMenu\Animation\MainMenu\MainMenu.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\MainMenu\Open.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\MainMenu\\Open.anim"
+      projectPath: Assets\AssetMenu\Animation\MainMenu\Open.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\MainMenu\Open.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\MainMenu\\Open.anim.meta"
+      projectPath: Assets\AssetMenu\Animation\MainMenu\Open.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\Panel.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\Panel.meta"
+      projectPath: Assets\AssetMenu\Animation\Panel.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\Panel\Closed.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\Panel\\Closed.anim"
+      projectPath: Assets\AssetMenu\Animation\Panel\Closed.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\Panel\Closed.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\Panel\\Closed.anim.meta"
+      projectPath: Assets\AssetMenu\Animation\Panel\Closed.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\Panel\Closing.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\Panel\\Closing.anim"
+      projectPath: Assets\AssetMenu\Animation\Panel\Closing.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\Panel\Closing.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\Panel\\Closing.anim.meta"
+      projectPath: Assets\AssetMenu\Animation\Panel\Closing.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\Panel\Open.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\Panel\\Open.anim"
+      projectPath: Assets\AssetMenu\Animation\Panel\Open.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\Panel\Open.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\Panel\\Open.anim.meta"
+      projectPath: Assets\AssetMenu\Animation\Panel\Open.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\Panel\Panel.controller
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\Panel\\Panel.controller"
+      projectPath: Assets\AssetMenu\Animation\Panel\Panel.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\Panel\Panel.controller.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\Panel\\Panel.controller.meta"
+      projectPath: Assets\AssetMenu\Animation\Panel\Panel.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\Rotation.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\Rotation.anim"
+      projectPath: Assets\AssetMenu\Animation\Rotation.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\Rotation.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\Rotation.anim.meta"
+      projectPath: Assets\AssetMenu\Animation\Rotation.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\SF Button.controller
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\SF Button.controller"
+      projectPath: Assets\AssetMenu\Animation\SF Button.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\SF Button.controller.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\SF Button.controller.meta"
+      projectPath: Assets\AssetMenu\Animation\SF Button.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\Settings.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\Settings.meta"
+      projectPath: Assets\AssetMenu\Animation\Settings.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\Settings\Closed.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\Settings\\Closed.anim"
+      projectPath: Assets\AssetMenu\Animation\Settings\Closed.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\Settings\Closed.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\Settings\\Closed.anim.meta"
+      projectPath: Assets\AssetMenu\Animation\Settings\Closed.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\Settings\Open.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\Settings\\Open.anim"
+      projectPath: Assets\AssetMenu\Animation\Settings\Open.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\Settings\Open.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\Settings\\Open.anim.meta"
+      projectPath: Assets\AssetMenu\Animation\Settings\Open.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\Settings\SettingsMenu.controller
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\Settings\\SettingsMenu.controller"
+      projectPath: Assets\AssetMenu\Animation\Settings\SettingsMenu.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Animation\Settings\SettingsMenu.controller.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation\\Settings\\SettingsMenu.controller.meta"
+      projectPath: Assets\AssetMenu\Animation\Settings\SettingsMenu.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Fonts\Jupiter.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Fonts\\Jupiter.meta"
+      projectPath: Assets\AssetMenu\Fonts\Jupiter.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Fonts\Jupiter\Jupiter.ttf
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Fonts\\Jupiter\\Jupiter.ttf"
+      projectPath: Assets\AssetMenu\Fonts\Jupiter\Jupiter.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Fonts\Jupiter\Jupiter.ttf.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Fonts\\Jupiter\\Jupiter.ttf.meta"
+      projectPath: Assets\AssetMenu\Fonts\Jupiter\Jupiter.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Fonts\Jupiter\LICENSE.txt
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Fonts\\Jupiter\\LICENSE.txt"
+      projectPath: Assets\AssetMenu\Fonts\Jupiter\LICENSE.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Fonts\Jupiter\LICENSE.txt.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Fonts\\Jupiter\\LICENSE.txt.meta"
+      projectPath: Assets\AssetMenu\Fonts\Jupiter\LICENSE.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Fonts\Stencilia.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Fonts\\Stencilia.meta"
+      projectPath: Assets\AssetMenu\Fonts\Stencilia.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Fonts\Stencilia\Stencilia-A.ttf
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Fonts\\Stencilia\\Stencilia-A.ttf"
+      projectPath: Assets\AssetMenu\Fonts\Stencilia\Stencilia-A.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Fonts\Stencilia\Stencilia-A.ttf.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Fonts\\Stencilia\\Stencilia-A.ttf.meta"
+      projectPath: Assets\AssetMenu\Fonts\Stencilia\Stencilia-A.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Fonts\Stencilia\Stencilia-Bold.ttf
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Fonts\\Stencilia\\Stencilia-Bold.ttf"
+      projectPath: Assets\AssetMenu\Fonts\Stencilia\Stencilia-Bold.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Fonts\Stencilia\Stencilia-Bold.ttf.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Fonts\\Stencilia\\Stencilia-Bold.ttf.meta"
+      projectPath: Assets\AssetMenu\Fonts\Stencilia\Stencilia-Bold.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Materials\Slider Background.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Materials\\Slider
+        Background.mat"
+      projectPath: Assets\AssetMenu\Materials\Slider Background.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Materials\Slider Background.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Materials\\Slider
+        Background.mat.meta"
+      projectPath: Assets\AssetMenu\Materials\Slider Background.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Materials\Slider Fill.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Materials\\Slider
+        Fill.mat"
+      projectPath: Assets\AssetMenu\Materials\Slider Fill.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Materials\Slider Fill.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Materials\\Slider
+        Fill.mat.meta"
+      projectPath: Assets\AssetMenu\Materials\Slider Fill.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Materials\Slider Knob.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Materials\\Slider
+        Knob.mat"
+      projectPath: Assets\AssetMenu\Materials\Slider Knob.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Materials\Slider Knob.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Materials\\Slider
+        Knob.mat.meta"
+      projectPath: Assets\AssetMenu\Materials\Slider Knob.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Materials\UI Opaque.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Materials\\UI Opaque.mat"
+      projectPath: Assets\AssetMenu\Materials\UI Opaque.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Materials\UI Opaque.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Materials\\UI Opaque.mat.meta"
+      projectPath: Assets\AssetMenu\Materials\UI Opaque.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Materials\UI-Default-No-Alpha.shader
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Materials\\UI-Default-No-Alpha.shader"
+      projectPath: Assets\AssetMenu\Materials\UI-Default-No-Alpha.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Materials\UI-Default-No-Alpha.shader.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Materials\\UI-Default-No-Alpha.shader.meta"
+      projectPath: Assets\AssetMenu\Materials\UI-Default-No-Alpha.shader.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Materials\Window.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Materials\\Window.mat"
+      projectPath: Assets\AssetMenu\Materials\Window.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Materials\Window.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Materials\\Window.mat.meta"
+      projectPath: Assets\AssetMenu\Materials\Window.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Models\Materials.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Models\\Materials.meta"
+      projectPath: Assets\AssetMenu\Models\Materials.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Models\Materials\vehicle_rcFlyer_dome_mat.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Models\\Materials\\vehicle_rcFlyer_dome_mat.mat"
+      projectPath: Assets\AssetMenu\Models\Materials\vehicle_rcFlyer_dome_mat.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Models\Materials\vehicle_rcFlyer_dome_mat.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Models\\Materials\\vehicle_rcFlyer_dome_mat.mat.meta"
+      projectPath: Assets\AssetMenu\Models\Materials\vehicle_rcFlyer_dome_mat.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Models\Materials\vehicle_rcFlyer_metal_mat.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Models\\Materials\\vehicle_rcFlyer_metal_mat.mat"
+      projectPath: Assets\AssetMenu\Models\Materials\vehicle_rcFlyer_metal_mat.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Models\Materials\vehicle_rcFlyer_metal_mat.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Models\\Materials\\vehicle_rcFlyer_metal_mat.mat.meta"
+      projectPath: Assets\AssetMenu\Models\Materials\vehicle_rcFlyer_metal_mat.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Models\Materials\vehicle_rcLand_clean_dome_mat.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Models\\Materials\\vehicle_rcLand_clean_dome_mat.mat"
+      projectPath: Assets\AssetMenu\Models\Materials\vehicle_rcLand_clean_dome_mat.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Models\Materials\vehicle_rcLand_clean_dome_mat.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Models\\Materials\\vehicle_rcLand_clean_dome_mat.mat.meta"
+      projectPath: Assets\AssetMenu\Models\Materials\vehicle_rcLand_clean_dome_mat.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Models\Textures.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Models\\Textures.meta"
+      projectPath: Assets\AssetMenu\Models\Textures.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Models\Textures\vehicle_rcFlyer_dff.tif
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Models\\Textures\\vehicle_rcFlyer_dff.tif"
+      projectPath: Assets\AssetMenu\Models\Textures\vehicle_rcFlyer_dff.tif
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Models\Textures\vehicle_rcFlyer_dff.tif.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Models\\Textures\\vehicle_rcFlyer_dff.tif.meta"
+      projectPath: Assets\AssetMenu\Models\Textures\vehicle_rcFlyer_dff.tif.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Models\Textures\vehicle_rcFlyer_nrm.tif
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Models\\Textures\\vehicle_rcFlyer_nrm.tif"
+      projectPath: Assets\AssetMenu\Models\Textures\vehicle_rcFlyer_nrm.tif
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Models\Textures\vehicle_rcFlyer_nrm.tif.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Models\\Textures\\vehicle_rcFlyer_nrm.tif.meta"
+      projectPath: Assets\AssetMenu\Models\Textures\vehicle_rcFlyer_nrm.tif.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Models\vehicle_rcFlyer_clean.fbx
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Models\\vehicle_rcFlyer_clean.fbx"
+      projectPath: Assets\AssetMenu\Models\vehicle_rcFlyer_clean.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Models\vehicle_rcFlyer_clean.fbx.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Models\\vehicle_rcFlyer_clean.fbx.meta"
+      projectPath: Assets\AssetMenu\Models\vehicle_rcFlyer_clean.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Prefabs\SF Button.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Prefabs\\SF Button.prefab"
+      projectPath: Assets\AssetMenu\Prefabs\SF Button.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Prefabs\SF Button.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Prefabs\\SF Button.prefab.meta"
+      projectPath: Assets\AssetMenu\Prefabs\SF Button.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Prefabs\SF Grid Button.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Prefabs\\SF Grid
+        Button.prefab"
+      projectPath: Assets\AssetMenu\Prefabs\SF Grid Button.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Prefabs\SF Grid Button.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Prefabs\\SF Grid
+        Button.prefab.meta"
+      projectPath: Assets\AssetMenu\Prefabs\SF Grid Button.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Prefabs\SF Scene Elements.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Prefabs\\SF Scene
+        Elements.prefab"
+      projectPath: Assets\AssetMenu\Prefabs\SF Scene Elements.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Prefabs\SF Scene Elements.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Prefabs\\SF Scene
+        Elements.prefab.meta"
+      projectPath: Assets\AssetMenu\Prefabs\SF Scene Elements.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Prefabs\SF Slider.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Prefabs\\SF Slider.prefab"
+      projectPath: Assets\AssetMenu\Prefabs\SF Slider.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Prefabs\SF Slider.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Prefabs\\SF Slider.prefab.meta"
+      projectPath: Assets\AssetMenu\Prefabs\SF Slider.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Prefabs\SF Title.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Prefabs\\SF Title.prefab"
+      projectPath: Assets\AssetMenu\Prefabs\SF Title.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Prefabs\SF Title.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Prefabs\\SF Title.prefab.meta"
+      projectPath: Assets\AssetMenu\Prefabs\SF Title.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Prefabs\SF Toggle.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Prefabs\\SF Toggle.prefab"
+      projectPath: Assets\AssetMenu\Prefabs\SF Toggle.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Prefabs\SF Toggle.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Prefabs\\SF Toggle.prefab.meta"
+      projectPath: Assets\AssetMenu\Prefabs\SF Toggle.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Prefabs\Slider Lit.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Prefabs\\Slider
+        Lit.prefab"
+      projectPath: Assets\AssetMenu\Prefabs\Slider Lit.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Prefabs\Slider Lit.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Prefabs\\Slider
+        Lit.prefab.meta"
+      projectPath: Assets\AssetMenu\Prefabs\Slider Lit.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scenes\Controls.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scenes\\Controls.unity"
+      projectPath: Assets\AssetMenu\Scenes\Controls.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scenes\Controls.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scenes\\Controls.unity.meta"
+      projectPath: Assets\AssetMenu\Scenes\Controls.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scenes\Drag And Drop.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scenes\\Drag And
+        Drop.unity"
+      projectPath: Assets\AssetMenu\Scenes\Drag And Drop.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scenes\Drag And Drop.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scenes\\Drag And
+        Drop.unity.meta"
+      projectPath: Assets\AssetMenu\Scenes\Drag And Drop.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scenes\Draggable Panel.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scenes\\Draggable
+        Panel.unity"
+      projectPath: Assets\AssetMenu\Scenes\Draggable Panel.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scenes\Draggable Panel.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scenes\\Draggable
+        Panel.unity.meta"
+      projectPath: Assets\AssetMenu\Scenes\Draggable Panel.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scenes\Layout Groups.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scenes\\Layout
+        Groups.unity"
+      projectPath: Assets\AssetMenu\Scenes\Layout Groups.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scenes\Layout Groups.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scenes\\Layout
+        Groups.unity.meta"
+      projectPath: Assets\AssetMenu\Scenes\Layout Groups.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scenes\Lighting.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scenes\\Lighting.unity"
+      projectPath: Assets\AssetMenu\Scenes\Lighting.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scenes\Lighting.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scenes\\Lighting.unity.meta"
+      projectPath: Assets\AssetMenu\Scenes\Lighting.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scenes\Menu 3D.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scenes\\Menu 3D.unity"
+      projectPath: Assets\AssetMenu\Scenes\Menu 3D.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scenes\Menu 3D.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scenes\\Menu 3D.unity.meta"
+      projectPath: Assets\AssetMenu\Scenes\Menu 3D.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scenes\RenderTexture.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scenes\\RenderTexture.unity"
+      projectPath: Assets\AssetMenu\Scenes\RenderTexture.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scenes\RenderTexture.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scenes\\RenderTexture.unity.meta"
+      projectPath: Assets\AssetMenu\Scenes\RenderTexture.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\music\Halo 4 OST - Theme Song.mp3
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\music\\Halo 4 OST
+        - Theme Song.mp3"
+      projectPath: Assets\AssetMenu\music\Halo 4 OST - Theme Song.mp3
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\music\Halo 4 OST - Theme Song.mp3.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\music\\Halo 4 OST
+        - Theme Song.mp3.meta"
+      projectPath: Assets\AssetMenu\music\Halo 4 OST - Theme Song.mp3.meta
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: b883a4bd6aea80d334912045654908bb66c422cc
+    mergeA: a85c4ac933c40ca60903b742fd82df0de0d599dd
+    mergeB: c0f5f26f797867d080f73c2099b91e47eeb968a7
+    authorName: Villem_p
+    authorEmail: pvillemain@hotmail.fr
+    commitEmail: pvillemain@hotmail.fr
+    commitName: Villem_p
+    summary: Merge branch 'master' of https://github.com/Slaipnir/IUTWARS
+    description: Merge branch 'master' of https://github.com/Slaipnir/IUTWARS
+    timeString: 2018-02-06T11:13:31.0000000+01:00
+    commitTimeString: 2018-02-06T11:13:31.0000000+01:00
+    changes: []
+  - commitID: a85c4ac933c40ca60903b742fd82df0de0d599dd
+    mergeA: 
+    mergeB: 
+    authorName: Villem_p
+    authorEmail: pvillemain@hotmail.fr
+    commitEmail: pvillemain@hotmail.fr
+    commitName: Villem_p
+    summary: Revert "menu1"
+    description: "Revert \"menu1\"\r\n\r\nThis reverts commit 9c5311b66e08e3c3591b3fceddd9c3948429bc04."
+    timeString: 2018-02-06T11:13:06.0000000+01:00
+    commitTimeString: 2018-02-06T11:13:06.0000000+01:00
+    changes:
+    - path: AssetMenu\Animation\MainMenu.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\MainMenu.meta"
+      projectPath: AssetMenu\Animation\MainMenu.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\MainMenu\Closed.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\MainMenu\\Closed.anim"
+      projectPath: AssetMenu\Animation\MainMenu\Closed.anim
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\MainMenu\Closed.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\MainMenu\\Closed.anim.meta"
+      projectPath: AssetMenu\Animation\MainMenu\Closed.anim.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\MainMenu\MainMenu.controller
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\MainMenu\\MainMenu.controller"
+      projectPath: AssetMenu\Animation\MainMenu\MainMenu.controller
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\MainMenu\MainMenu.controller.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\MainMenu\\MainMenu.controller.meta"
+      projectPath: AssetMenu\Animation\MainMenu\MainMenu.controller.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\MainMenu\Open.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\MainMenu\\Open.anim"
+      projectPath: AssetMenu\Animation\MainMenu\Open.anim
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\MainMenu\Open.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\MainMenu\\Open.anim.meta"
+      projectPath: AssetMenu\Animation\MainMenu\Open.anim.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\Panel.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Panel.meta"
+      projectPath: AssetMenu\Animation\Panel.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\Panel\Closed.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Panel\\Closed.anim"
+      projectPath: AssetMenu\Animation\Panel\Closed.anim
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\Panel\Closed.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Panel\\Closed.anim.meta"
+      projectPath: AssetMenu\Animation\Panel\Closed.anim.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\Panel\Closing.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Panel\\Closing.anim"
+      projectPath: AssetMenu\Animation\Panel\Closing.anim
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\Panel\Closing.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Panel\\Closing.anim.meta"
+      projectPath: AssetMenu\Animation\Panel\Closing.anim.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\Panel\Open.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Panel\\Open.anim"
+      projectPath: AssetMenu\Animation\Panel\Open.anim
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\Panel\Open.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Panel\\Open.anim.meta"
+      projectPath: AssetMenu\Animation\Panel\Open.anim.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\Panel\Panel.controller
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Panel\\Panel.controller"
+      projectPath: AssetMenu\Animation\Panel\Panel.controller
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\Panel\Panel.controller.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Panel\\Panel.controller.meta"
+      projectPath: AssetMenu\Animation\Panel\Panel.controller.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\Rotation.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Rotation.anim"
+      projectPath: AssetMenu\Animation\Rotation.anim
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\Rotation.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Rotation.anim.meta"
+      projectPath: AssetMenu\Animation\Rotation.anim.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\SF Button.controller
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\SF Button.controller"
+      projectPath: AssetMenu\Animation\SF Button.controller
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\SF Button.controller.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\SF Button.controller.meta"
+      projectPath: AssetMenu\Animation\SF Button.controller.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\Settings.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Settings.meta"
+      projectPath: AssetMenu\Animation\Settings.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\Settings\Closed.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Settings\\Closed.anim"
+      projectPath: AssetMenu\Animation\Settings\Closed.anim
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\Settings\Closed.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Settings\\Closed.anim.meta"
+      projectPath: AssetMenu\Animation\Settings\Closed.anim.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\Settings\Open.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Settings\\Open.anim"
+      projectPath: AssetMenu\Animation\Settings\Open.anim
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\Settings\Open.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Settings\\Open.anim.meta"
+      projectPath: AssetMenu\Animation\Settings\Open.anim.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\Settings\SettingsMenu.controller
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Settings\\SettingsMenu.controller"
+      projectPath: AssetMenu\Animation\Settings\SettingsMenu.controller
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Animation\Settings\SettingsMenu.controller.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Settings\\SettingsMenu.controller.meta"
+      projectPath: AssetMenu\Animation\Settings\SettingsMenu.controller.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Fonts\Jupiter.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Jupiter.meta"
+      projectPath: AssetMenu\Fonts\Jupiter.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Fonts\Jupiter\Jupiter.ttf
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Jupiter\\Jupiter.ttf"
+      projectPath: AssetMenu\Fonts\Jupiter\Jupiter.ttf
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Fonts\Jupiter\Jupiter.ttf.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Jupiter\\Jupiter.ttf.meta"
+      projectPath: AssetMenu\Fonts\Jupiter\Jupiter.ttf.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Fonts\Jupiter\LICENSE.txt
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Jupiter\\LICENSE.txt"
+      projectPath: AssetMenu\Fonts\Jupiter\LICENSE.txt
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Fonts\Jupiter\LICENSE.txt.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Jupiter\\LICENSE.txt.meta"
+      projectPath: AssetMenu\Fonts\Jupiter\LICENSE.txt.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Fonts\Stencilia.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Stencilia.meta"
+      projectPath: AssetMenu\Fonts\Stencilia.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Fonts\Stencilia\Stencilia-A.ttf
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Stencilia\\Stencilia-A.ttf"
+      projectPath: AssetMenu\Fonts\Stencilia\Stencilia-A.ttf
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Fonts\Stencilia\Stencilia-A.ttf.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Stencilia\\Stencilia-A.ttf.meta"
+      projectPath: AssetMenu\Fonts\Stencilia\Stencilia-A.ttf.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Fonts\Stencilia\Stencilia-Bold.ttf
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Stencilia\\Stencilia-Bold.ttf"
+      projectPath: AssetMenu\Fonts\Stencilia\Stencilia-Bold.ttf
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Fonts\Stencilia\Stencilia-Bold.ttf.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Stencilia\\Stencilia-Bold.ttf.meta"
+      projectPath: AssetMenu\Fonts\Stencilia\Stencilia-Bold.ttf.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Materials\Slider Background.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\Slider Background.mat"
+      projectPath: AssetMenu\Materials\Slider Background.mat
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Materials\Slider Background.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\Slider Background.mat.meta"
+      projectPath: AssetMenu\Materials\Slider Background.mat.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Materials\Slider Fill.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\Slider Fill.mat"
+      projectPath: AssetMenu\Materials\Slider Fill.mat
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Materials\Slider Fill.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\Slider Fill.mat.meta"
+      projectPath: AssetMenu\Materials\Slider Fill.mat.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Materials\Slider Knob.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\Slider Knob.mat"
+      projectPath: AssetMenu\Materials\Slider Knob.mat
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Materials\Slider Knob.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\Slider Knob.mat.meta"
+      projectPath: AssetMenu\Materials\Slider Knob.mat.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Materials\UI Opaque.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\UI Opaque.mat"
+      projectPath: AssetMenu\Materials\UI Opaque.mat
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Materials\UI Opaque.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\UI Opaque.mat.meta"
+      projectPath: AssetMenu\Materials\UI Opaque.mat.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Materials\UI-Default-No-Alpha.shader
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\UI-Default-No-Alpha.shader"
+      projectPath: AssetMenu\Materials\UI-Default-No-Alpha.shader
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Materials\UI-Default-No-Alpha.shader.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\UI-Default-No-Alpha.shader.meta"
+      projectPath: AssetMenu\Materials\UI-Default-No-Alpha.shader.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Materials\Window.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\Window.mat"
+      projectPath: AssetMenu\Materials\Window.mat
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Materials\Window.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\Window.mat.meta"
+      projectPath: AssetMenu\Materials\Window.mat.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Models\Materials.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Materials.meta"
+      projectPath: AssetMenu\Models\Materials.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Models\Materials\vehicle_rcFlyer_dome_mat.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Materials\\vehicle_rcFlyer_dome_mat.mat"
+      projectPath: AssetMenu\Models\Materials\vehicle_rcFlyer_dome_mat.mat
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Models\Materials\vehicle_rcFlyer_dome_mat.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Materials\\vehicle_rcFlyer_dome_mat.mat.meta"
+      projectPath: AssetMenu\Models\Materials\vehicle_rcFlyer_dome_mat.mat.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Models\Materials\vehicle_rcFlyer_metal_mat.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Materials\\vehicle_rcFlyer_metal_mat.mat"
+      projectPath: AssetMenu\Models\Materials\vehicle_rcFlyer_metal_mat.mat
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Models\Materials\vehicle_rcFlyer_metal_mat.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Materials\\vehicle_rcFlyer_metal_mat.mat.meta"
+      projectPath: AssetMenu\Models\Materials\vehicle_rcFlyer_metal_mat.mat.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Models\Materials\vehicle_rcLand_clean_dome_mat.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Materials\\vehicle_rcLand_clean_dome_mat.mat"
+      projectPath: AssetMenu\Models\Materials\vehicle_rcLand_clean_dome_mat.mat
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Models\Materials\vehicle_rcLand_clean_dome_mat.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Materials\\vehicle_rcLand_clean_dome_mat.mat.meta"
+      projectPath: AssetMenu\Models\Materials\vehicle_rcLand_clean_dome_mat.mat.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Models\Textures.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Textures.meta"
+      projectPath: AssetMenu\Models\Textures.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Models\Textures\vehicle_rcFlyer_dff.tif
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Textures\\vehicle_rcFlyer_dff.tif"
+      projectPath: AssetMenu\Models\Textures\vehicle_rcFlyer_dff.tif
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Models\Textures\vehicle_rcFlyer_dff.tif.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Textures\\vehicle_rcFlyer_dff.tif.meta"
+      projectPath: AssetMenu\Models\Textures\vehicle_rcFlyer_dff.tif.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Models\Textures\vehicle_rcFlyer_nrm.tif
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Textures\\vehicle_rcFlyer_nrm.tif"
+      projectPath: AssetMenu\Models\Textures\vehicle_rcFlyer_nrm.tif
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Models\Textures\vehicle_rcFlyer_nrm.tif.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Textures\\vehicle_rcFlyer_nrm.tif.meta"
+      projectPath: AssetMenu\Models\Textures\vehicle_rcFlyer_nrm.tif.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Models\vehicle_rcFlyer_clean.fbx
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\vehicle_rcFlyer_clean.fbx"
+      projectPath: AssetMenu\Models\vehicle_rcFlyer_clean.fbx
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Models\vehicle_rcFlyer_clean.fbx.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\vehicle_rcFlyer_clean.fbx.meta"
+      projectPath: AssetMenu\Models\vehicle_rcFlyer_clean.fbx.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Button.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Button.prefab"
+      projectPath: AssetMenu\Prefabs\SF Button.prefab
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Button.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Button.prefab.meta"
+      projectPath: AssetMenu\Prefabs\SF Button.prefab.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Grid Button.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Grid Button.prefab"
+      projectPath: AssetMenu\Prefabs\SF Grid Button.prefab
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Grid Button.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Grid Button.prefab.meta"
+      projectPath: AssetMenu\Prefabs\SF Grid Button.prefab.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Scene Elements.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Scene Elements.prefab"
+      projectPath: AssetMenu\Prefabs\SF Scene Elements.prefab
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Scene Elements.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Scene Elements.prefab.meta"
+      projectPath: AssetMenu\Prefabs\SF Scene Elements.prefab.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Slider.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Slider.prefab"
+      projectPath: AssetMenu\Prefabs\SF Slider.prefab
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Slider.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Slider.prefab.meta"
+      projectPath: AssetMenu\Prefabs\SF Slider.prefab.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Title.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Title.prefab"
+      projectPath: AssetMenu\Prefabs\SF Title.prefab
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Title.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Title.prefab.meta"
+      projectPath: AssetMenu\Prefabs\SF Title.prefab.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Toggle.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Toggle.prefab"
+      projectPath: AssetMenu\Prefabs\SF Toggle.prefab
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Toggle.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Toggle.prefab.meta"
+      projectPath: AssetMenu\Prefabs\SF Toggle.prefab.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Prefabs\Slider Lit.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\Slider Lit.prefab"
+      projectPath: AssetMenu\Prefabs\Slider Lit.prefab
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Prefabs\Slider Lit.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\Slider Lit.prefab.meta"
+      projectPath: AssetMenu\Prefabs\Slider Lit.prefab.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Scenes\Controls.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Controls.unity"
+      projectPath: AssetMenu\Scenes\Controls.unity
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Scenes\Controls.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Controls.unity.meta"
+      projectPath: AssetMenu\Scenes\Controls.unity.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Scenes\Drag And Drop.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Drag And Drop.unity"
+      projectPath: AssetMenu\Scenes\Drag And Drop.unity
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Scenes\Drag And Drop.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Drag And Drop.unity.meta"
+      projectPath: AssetMenu\Scenes\Drag And Drop.unity.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Scenes\Draggable Panel.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Draggable Panel.unity"
+      projectPath: AssetMenu\Scenes\Draggable Panel.unity
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Scenes\Draggable Panel.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Draggable Panel.unity.meta"
+      projectPath: AssetMenu\Scenes\Draggable Panel.unity.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Scenes\Layout Groups.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Layout Groups.unity"
+      projectPath: AssetMenu\Scenes\Layout Groups.unity
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Scenes\Layout Groups.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Layout Groups.unity.meta"
+      projectPath: AssetMenu\Scenes\Layout Groups.unity.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Scenes\Lighting.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Lighting.unity"
+      projectPath: AssetMenu\Scenes\Lighting.unity
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Scenes\Lighting.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Lighting.unity.meta"
+      projectPath: AssetMenu\Scenes\Lighting.unity.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Scenes\Menu 3D.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Menu 3D.unity"
+      projectPath: AssetMenu\Scenes\Menu 3D.unity
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Scenes\Menu 3D.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Menu 3D.unity.meta"
+      projectPath: AssetMenu\Scenes\Menu 3D.unity.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Scenes\RenderTexture.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\RenderTexture.unity"
+      projectPath: AssetMenu\Scenes\RenderTexture.unity
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\Scenes\RenderTexture.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\RenderTexture.unity.meta"
+      projectPath: AssetMenu\Scenes\RenderTexture.unity.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\music\Halo 4 OST - Theme Song.mp3
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\music\\Halo 4 OST - Theme
+        Song.mp3"
+      projectPath: AssetMenu\music\Halo 4 OST - Theme Song.mp3
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: AssetMenu\music\Halo 4 OST - Theme Song.mp3.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\music\\Halo 4 OST - Theme
+        Song.mp3.meta"
+      projectPath: AssetMenu\music\Halo 4 OST - Theme Song.mp3.meta
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: c0f5f26f797867d080f73c2099b91e47eeb968a7
+    mergeA: 
+    mergeB: 
+    authorName: Slaipnir
+    authorEmail: pvillemain@hotmail.fr
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: menu2
+    description: menu2
+    timeString: 2018-02-06T11:12:01.0000000+01:00
+    commitTimeString: 2018-02-06T11:12:01.0000000+01:00
+    changes:
+    - path: Assets\AssetMenu\Animation.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Animation.meta"
+      projectPath: Assets\AssetMenu\Animation.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Fonts.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Fonts.meta"
+      projectPath: Assets\AssetMenu\Fonts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Materials.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Materials.meta"
+      projectPath: Assets\AssetMenu\Materials.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Models.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Models.meta"
+      projectPath: Assets\AssetMenu\Models.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Prefabs.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Prefabs.meta"
+      projectPath: Assets\AssetMenu\Prefabs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scenes.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scenes.meta"
+      projectPath: Assets\AssetMenu\Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts.meta"
+      projectPath: Assets\AssetMenu\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\ActiveStateToggler.cs
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\ActiveStateToggler.cs"
+      projectPath: Assets\AssetMenu\Scripts\ActiveStateToggler.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\ActiveStateToggler.cs.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\ActiveStateToggler.cs.meta"
+      projectPath: Assets\AssetMenu\Scripts\ActiveStateToggler.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\ApplicationManager.cs
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\ApplicationManager.cs"
+      projectPath: Assets\AssetMenu\Scripts\ApplicationManager.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\ApplicationManager.cs.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\ApplicationManager.cs.meta"
+      projectPath: Assets\AssetMenu\Scripts\ApplicationManager.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\ChangeColor.cs
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\ChangeColor.cs"
+      projectPath: Assets\AssetMenu\Scripts\ChangeColor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\ChangeColor.cs.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\ChangeColor.cs.meta"
+      projectPath: Assets\AssetMenu\Scripts\ChangeColor.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\DragMe.cs
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\DragMe.cs"
+      projectPath: Assets\AssetMenu\Scripts\DragMe.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\DragMe.cs.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\DragMe.cs.meta"
+      projectPath: Assets\AssetMenu\Scripts\DragMe.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\DragPanel.cs
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\DragPanel.cs"
+      projectPath: Assets\AssetMenu\Scripts\DragPanel.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\DragPanel.cs.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\DragPanel.cs.meta"
+      projectPath: Assets\AssetMenu\Scripts\DragPanel.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\DropMe.cs
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\DropMe.cs"
+      projectPath: Assets\AssetMenu\Scripts\DropMe.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\DropMe.cs.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\DropMe.cs.meta"
+      projectPath: Assets\AssetMenu\Scripts\DropMe.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\PanelManager.cs
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\PanelManager.cs"
+      projectPath: Assets\AssetMenu\Scripts\PanelManager.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\PanelManager.cs.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\PanelManager.cs.meta"
+      projectPath: Assets\AssetMenu\Scripts\PanelManager.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\ResizePanel.cs
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\ResizePanel.cs"
+      projectPath: Assets\AssetMenu\Scripts\ResizePanel.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\ResizePanel.cs.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\ResizePanel.cs.meta"
+      projectPath: Assets\AssetMenu\Scripts\ResizePanel.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\ScrollDetailTexture.cs
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\ScrollDetailTexture.cs"
+      projectPath: Assets\AssetMenu\Scripts\ScrollDetailTexture.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\ScrollDetailTexture.cs.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\ScrollDetailTexture.cs.meta"
+      projectPath: Assets\AssetMenu\Scripts\ScrollDetailTexture.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\ShowSliderValue.cs
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\ShowSliderValue.cs"
+      projectPath: Assets\AssetMenu\Scripts\ShowSliderValue.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\ShowSliderValue.cs.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\ShowSliderValue.cs.meta"
+      projectPath: Assets\AssetMenu\Scripts\ShowSliderValue.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\TiltWindow.cs
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\TiltWindow.cs"
+      projectPath: Assets\AssetMenu\Scripts\TiltWindow.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Scripts\TiltWindow.cs.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Scripts\\TiltWindow.cs.meta"
+      projectPath: Assets\AssetMenu\Scripts\TiltWindow.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Decoration.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Decoration.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Decoration.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Decoration\DottedRoundedRect.psd
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Decoration\\DottedRoundedRect.psd"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Decoration\DottedRoundedRect.psd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Decoration\DottedRoundedRect.psd.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Decoration\\DottedRoundedRect.psd.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Decoration\DottedRoundedRect.psd.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Decoration\Icon1.png
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Decoration\\Icon1.png"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Decoration\Icon1.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Decoration\Icon1.png.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Decoration\\Icon1.png.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Decoration\Icon1.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Decoration\Icon2.png
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Decoration\\Icon2.png"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Decoration\Icon2.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Decoration\Icon2.png.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Decoration\\Icon2.png.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Decoration\Icon2.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Decoration\Icon3.png
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Decoration\\Icon3.png"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Decoration\Icon3.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Decoration\Icon3.png.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Decoration\\Icon3.png.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Decoration\Icon3.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Decoration\Unity Logo Unlit.psd
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Decoration\\Unity
+        Logo Unlit.psd"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Decoration\Unity Logo Unlit.psd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Decoration\Unity Logo Unlit.psd.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Decoration\\Unity
+        Logo Unlit.psd.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Decoration\Unity Logo Unlit.psd.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\IUT UI.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\IUT
+        UI.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\IUT UI.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\IUT UI\BgBtn.png
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\IUT
+        UI\\BgBtn.png"
+      projectPath: Assets\AssetMenu\Textures and Sprites\IUT UI\BgBtn.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\IUT UI\BgBtn.png.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\IUT
+        UI\\BgBtn.png.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\IUT UI\BgBtn.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\IUT UI\PageAccueil.png
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\IUT
+        UI\\PageAccueil.png"
+      projectPath: Assets\AssetMenu\Textures and Sprites\IUT UI\PageAccueil.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\IUT UI\PageAccueil.png.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\IUT
+        UI\\PageAccueil.png.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\IUT UI\PageAccueil.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\IUT UI\bg.png
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\IUT
+        UI\\bg.png"
+      projectPath: Assets\AssetMenu\Textures and Sprites\IUT UI\bg.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\IUT UI\bg.png.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\IUT
+        UI\\bg.png.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\IUT UI\bg.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\IUT UI\logo.png
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\IUT
+        UI\\logo.png"
+      projectPath: Assets\AssetMenu\Textures and Sprites\IUT UI\logo.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\IUT UI\logo.png.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\IUT
+        UI\\logo.png.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\IUT UI\logo.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\IUT UI\option.png
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\IUT
+        UI\\option.png"
+      projectPath: Assets\AssetMenu\Textures and Sprites\IUT UI\option.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\IUT UI\option.png.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\IUT
+        UI\\option.png.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\IUT UI\option.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\IUT UI\quitter.png
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\IUT
+        UI\\quitter.png"
+      projectPath: Assets\AssetMenu\Textures and Sprites\IUT UI\quitter.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\IUT UI\quitter.png.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\IUT
+        UI\\quitter.png.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\IUT UI\quitter.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\IUT UI\shield-proto.jpg
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\IUT
+        UI\\shield-proto.jpg"
+      projectPath: Assets\AssetMenu\Textures and Sprites\IUT UI\shield-proto.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\IUT UI\shield-proto.jpg.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\IUT
+        UI\\shield-proto.jpg.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\IUT UI\shield-proto.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\IUT UI\shield2.png
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\IUT
+        UI\\shield2.png"
+      projectPath: Assets\AssetMenu\Textures and Sprites\IUT UI\shield2.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\IUT UI\shield2.png.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\IUT
+        UI\\shield2.png.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\IUT UI\shield2.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\IUT UI\start.png
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\IUT
+        UI\\start.png"
+      projectPath: Assets\AssetMenu\Textures and Sprites\IUT UI\start.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\IUT UI\start.png.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\IUT
+        UI\\start.png.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\IUT UI\start.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Lit UI.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Lit
+        UI.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Lit UI.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Lit UI\BackgroundNormal.psd
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Lit
+        UI\\BackgroundNormal.psd"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Lit UI\BackgroundNormal.psd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Lit UI\BackgroundNormal.psd.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Lit
+        UI\\BackgroundNormal.psd.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Lit UI\BackgroundNormal.psd.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Lit UI\DiagonalSpritesNormal.psd
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Lit
+        UI\\DiagonalSpritesNormal.psd"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Lit UI\DiagonalSpritesNormal.psd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Lit UI\DiagonalSpritesNormal.psd.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Lit
+        UI\\DiagonalSpritesNormal.psd.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Lit UI\DiagonalSpritesNormal.psd.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Lit UI\DiagonalStripes.psd
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Lit
+        UI\\DiagonalStripes.psd"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Lit UI\DiagonalStripes.psd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Lit UI\DiagonalStripes.psd.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Lit
+        UI\\DiagonalStripes.psd.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Lit UI\DiagonalStripes.psd.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Lit UI\KnobNormal.psd
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Lit
+        UI\\KnobNormal.psd"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Lit UI\KnobNormal.psd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Lit UI\KnobNormal.psd.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Lit
+        UI\\KnobNormal.psd.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Lit UI\KnobNormal.psd.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Lit UI\UISpriteNormal.psd
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Lit
+        UI\\UISpriteNormal.psd"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Lit UI\UISpriteNormal.psd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Lit UI\UISpriteNormal.psd.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Lit
+        UI\\UISpriteNormal.psd.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Lit UI\UISpriteNormal.psd.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Lit UI\White.psd
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Lit
+        UI\\White.psd"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Lit UI\White.psd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Lit UI\White.psd.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Lit
+        UI\\White.psd.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Lit UI\White.psd.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\RenderTexture.renderTexture
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\RenderTexture.renderTexture"
+      projectPath: Assets\AssetMenu\Textures and Sprites\RenderTexture.renderTexture
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\RenderTexture.renderTexture.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\RenderTexture.renderTexture.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\RenderTexture.renderTexture.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Rounded UI.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Rounded
+        UI.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Rounded UI.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Rounded UI\UIButtonCorner.png
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Rounded
+        UI\\UIButtonCorner.png"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Rounded UI\UIButtonCorner.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Rounded UI\UIButtonCorner.png.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Rounded
+        UI\\UIButtonCorner.png.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Rounded UI\UIButtonCorner.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Rounded UI\UIButtonDefault.png
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Rounded
+        UI\\UIButtonDefault.png"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Rounded UI\UIButtonDefault.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Rounded UI\UIButtonDefault.png.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Rounded
+        UI\\UIButtonDefault.png.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Rounded UI\UIButtonDefault.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Rounded UI\UIPanel.png
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Rounded
+        UI\\UIPanel.png"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Rounded UI\UIPanel.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Rounded UI\UIPanel.png.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Rounded
+        UI\\UIPanel.png.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Rounded UI\UIPanel.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Rounded UI\UIToggleButton.png
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Rounded
+        UI\\UIToggleButton.png"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Rounded UI\UIToggleButton.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\Rounded UI\UIToggleButton.png.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\Rounded
+        UI\\UIToggleButton.png.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\Rounded UI\UIToggleButton.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\SF UI.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\SF
+        UI.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\SF UI.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\SF UI\Background.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\SF
+        UI\\Background.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\SF UI\Background.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\SF UI\Background\LICENSE.txt
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\SF
+        UI\\Background\\LICENSE.txt"
+      projectPath: Assets\AssetMenu\Textures and Sprites\SF UI\Background\LICENSE.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\SF UI\Background\LICENSE.txt.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\SF
+        UI\\Background\\LICENSE.txt.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\SF UI\Background\LICENSE.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\SF UI\Background\SF Background.jpg
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\SF
+        UI\\Background\\SF Background.jpg"
+      projectPath: Assets\AssetMenu\Textures and Sprites\SF UI\Background\SF Background.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\SF UI\Background\SF Background.jpg.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\SF
+        UI\\Background\\SF Background.jpg.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\SF UI\Background\SF Background.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\SF UI\SF Button.psd
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\SF
+        UI\\SF Button.psd"
+      projectPath: Assets\AssetMenu\Textures and Sprites\SF UI\SF Button.psd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\SF UI\SF Button.psd.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\SF
+        UI\\SF Button.psd.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\SF UI\SF Button.psd.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\SF UI\SF Generic.psd
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\SF
+        UI\\SF Generic.psd"
+      projectPath: Assets\AssetMenu\Textures and Sprites\SF UI\SF Generic.psd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\SF UI\SF Generic.psd.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\SF
+        UI\\SF Generic.psd.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\SF UI\SF Generic.psd.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\SF UI\SF Title.psd
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\SF
+        UI\\SF Title.psd"
+      projectPath: Assets\AssetMenu\Textures and Sprites\SF UI\SF Title.psd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\SF UI\SF Title.psd.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\SF
+        UI\\SF Title.psd.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\SF UI\SF Title.psd.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\SF UI\SF Window.psd
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\SF
+        UI\\SF Window.psd"
+      projectPath: Assets\AssetMenu\Textures and Sprites\SF UI\SF Window.psd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\Textures and Sprites\SF UI\SF Window.psd.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\Textures and Sprites\\SF
+        UI\\SF Window.psd.meta"
+      projectPath: Assets\AssetMenu\Textures and Sprites\SF UI\SF Window.psd.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\AssetMenu\music.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assets\\AssetMenu\\music.meta"
+      projectPath: Assets\AssetMenu\music.meta
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 9c5311b66e08e3c3591b3fceddd9c3948429bc04
+    mergeA: 
+    mergeB: 
+    authorName: Slaipnir
+    authorEmail: pvillemain@hotmail.fr
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: menu1
+    description: menu1
+    timeString: 2018-02-06T11:08:15.0000000+01:00
+    commitTimeString: 2018-02-06T11:08:15.0000000+01:00
+    changes:
+    - path: AssetMenu\Animation\MainMenu.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\MainMenu.meta"
+      projectPath: AssetMenu\Animation\MainMenu.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\MainMenu\Closed.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\MainMenu\\Closed.anim"
+      projectPath: AssetMenu\Animation\MainMenu\Closed.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\MainMenu\Closed.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\MainMenu\\Closed.anim.meta"
+      projectPath: AssetMenu\Animation\MainMenu\Closed.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\MainMenu\MainMenu.controller
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\MainMenu\\MainMenu.controller"
+      projectPath: AssetMenu\Animation\MainMenu\MainMenu.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\MainMenu\MainMenu.controller.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\MainMenu\\MainMenu.controller.meta"
+      projectPath: AssetMenu\Animation\MainMenu\MainMenu.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\MainMenu\Open.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\MainMenu\\Open.anim"
+      projectPath: AssetMenu\Animation\MainMenu\Open.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\MainMenu\Open.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\MainMenu\\Open.anim.meta"
+      projectPath: AssetMenu\Animation\MainMenu\Open.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\Panel.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Panel.meta"
+      projectPath: AssetMenu\Animation\Panel.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\Panel\Closed.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Panel\\Closed.anim"
+      projectPath: AssetMenu\Animation\Panel\Closed.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\Panel\Closed.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Panel\\Closed.anim.meta"
+      projectPath: AssetMenu\Animation\Panel\Closed.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\Panel\Closing.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Panel\\Closing.anim"
+      projectPath: AssetMenu\Animation\Panel\Closing.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\Panel\Closing.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Panel\\Closing.anim.meta"
+      projectPath: AssetMenu\Animation\Panel\Closing.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\Panel\Open.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Panel\\Open.anim"
+      projectPath: AssetMenu\Animation\Panel\Open.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\Panel\Open.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Panel\\Open.anim.meta"
+      projectPath: AssetMenu\Animation\Panel\Open.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\Panel\Panel.controller
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Panel\\Panel.controller"
+      projectPath: AssetMenu\Animation\Panel\Panel.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\Panel\Panel.controller.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Panel\\Panel.controller.meta"
+      projectPath: AssetMenu\Animation\Panel\Panel.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\Rotation.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Rotation.anim"
+      projectPath: AssetMenu\Animation\Rotation.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\Rotation.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Rotation.anim.meta"
+      projectPath: AssetMenu\Animation\Rotation.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\SF Button.controller
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\SF Button.controller"
+      projectPath: AssetMenu\Animation\SF Button.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\SF Button.controller.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\SF Button.controller.meta"
+      projectPath: AssetMenu\Animation\SF Button.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\Settings.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Settings.meta"
+      projectPath: AssetMenu\Animation\Settings.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\Settings\Closed.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Settings\\Closed.anim"
+      projectPath: AssetMenu\Animation\Settings\Closed.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\Settings\Closed.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Settings\\Closed.anim.meta"
+      projectPath: AssetMenu\Animation\Settings\Closed.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\Settings\Open.anim
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Settings\\Open.anim"
+      projectPath: AssetMenu\Animation\Settings\Open.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\Settings\Open.anim.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Settings\\Open.anim.meta"
+      projectPath: AssetMenu\Animation\Settings\Open.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\Settings\SettingsMenu.controller
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Settings\\SettingsMenu.controller"
+      projectPath: AssetMenu\Animation\Settings\SettingsMenu.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Animation\Settings\SettingsMenu.controller.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Animation\\Settings\\SettingsMenu.controller.meta"
+      projectPath: AssetMenu\Animation\Settings\SettingsMenu.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Fonts\Jupiter.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Jupiter.meta"
+      projectPath: AssetMenu\Fonts\Jupiter.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Fonts\Jupiter\Jupiter.ttf
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Jupiter\\Jupiter.ttf"
+      projectPath: AssetMenu\Fonts\Jupiter\Jupiter.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Fonts\Jupiter\Jupiter.ttf.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Jupiter\\Jupiter.ttf.meta"
+      projectPath: AssetMenu\Fonts\Jupiter\Jupiter.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Fonts\Jupiter\LICENSE.txt
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Jupiter\\LICENSE.txt"
+      projectPath: AssetMenu\Fonts\Jupiter\LICENSE.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Fonts\Jupiter\LICENSE.txt.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Jupiter\\LICENSE.txt.meta"
+      projectPath: AssetMenu\Fonts\Jupiter\LICENSE.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Fonts\Stencilia.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Stencilia.meta"
+      projectPath: AssetMenu\Fonts\Stencilia.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Fonts\Stencilia\Stencilia-A.ttf
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Stencilia\\Stencilia-A.ttf"
+      projectPath: AssetMenu\Fonts\Stencilia\Stencilia-A.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Fonts\Stencilia\Stencilia-A.ttf.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Stencilia\\Stencilia-A.ttf.meta"
+      projectPath: AssetMenu\Fonts\Stencilia\Stencilia-A.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Fonts\Stencilia\Stencilia-Bold.ttf
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Stencilia\\Stencilia-Bold.ttf"
+      projectPath: AssetMenu\Fonts\Stencilia\Stencilia-Bold.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Fonts\Stencilia\Stencilia-Bold.ttf.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Fonts\\Stencilia\\Stencilia-Bold.ttf.meta"
+      projectPath: AssetMenu\Fonts\Stencilia\Stencilia-Bold.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Materials\Slider Background.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\Slider Background.mat"
+      projectPath: AssetMenu\Materials\Slider Background.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Materials\Slider Background.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\Slider Background.mat.meta"
+      projectPath: AssetMenu\Materials\Slider Background.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Materials\Slider Fill.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\Slider Fill.mat"
+      projectPath: AssetMenu\Materials\Slider Fill.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Materials\Slider Fill.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\Slider Fill.mat.meta"
+      projectPath: AssetMenu\Materials\Slider Fill.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Materials\Slider Knob.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\Slider Knob.mat"
+      projectPath: AssetMenu\Materials\Slider Knob.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Materials\Slider Knob.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\Slider Knob.mat.meta"
+      projectPath: AssetMenu\Materials\Slider Knob.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Materials\UI Opaque.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\UI Opaque.mat"
+      projectPath: AssetMenu\Materials\UI Opaque.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Materials\UI Opaque.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\UI Opaque.mat.meta"
+      projectPath: AssetMenu\Materials\UI Opaque.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Materials\UI-Default-No-Alpha.shader
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\UI-Default-No-Alpha.shader"
+      projectPath: AssetMenu\Materials\UI-Default-No-Alpha.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Materials\UI-Default-No-Alpha.shader.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\UI-Default-No-Alpha.shader.meta"
+      projectPath: AssetMenu\Materials\UI-Default-No-Alpha.shader.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Materials\Window.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\Window.mat"
+      projectPath: AssetMenu\Materials\Window.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Materials\Window.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Materials\\Window.mat.meta"
+      projectPath: AssetMenu\Materials\Window.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Models\Materials.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Materials.meta"
+      projectPath: AssetMenu\Models\Materials.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Models\Materials\vehicle_rcFlyer_dome_mat.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Materials\\vehicle_rcFlyer_dome_mat.mat"
+      projectPath: AssetMenu\Models\Materials\vehicle_rcFlyer_dome_mat.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Models\Materials\vehicle_rcFlyer_dome_mat.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Materials\\vehicle_rcFlyer_dome_mat.mat.meta"
+      projectPath: AssetMenu\Models\Materials\vehicle_rcFlyer_dome_mat.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Models\Materials\vehicle_rcFlyer_metal_mat.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Materials\\vehicle_rcFlyer_metal_mat.mat"
+      projectPath: AssetMenu\Models\Materials\vehicle_rcFlyer_metal_mat.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Models\Materials\vehicle_rcFlyer_metal_mat.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Materials\\vehicle_rcFlyer_metal_mat.mat.meta"
+      projectPath: AssetMenu\Models\Materials\vehicle_rcFlyer_metal_mat.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Models\Materials\vehicle_rcLand_clean_dome_mat.mat
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Materials\\vehicle_rcLand_clean_dome_mat.mat"
+      projectPath: AssetMenu\Models\Materials\vehicle_rcLand_clean_dome_mat.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Models\Materials\vehicle_rcLand_clean_dome_mat.mat.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Materials\\vehicle_rcLand_clean_dome_mat.mat.meta"
+      projectPath: AssetMenu\Models\Materials\vehicle_rcLand_clean_dome_mat.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Models\Textures.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Textures.meta"
+      projectPath: AssetMenu\Models\Textures.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Models\Textures\vehicle_rcFlyer_dff.tif
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Textures\\vehicle_rcFlyer_dff.tif"
+      projectPath: AssetMenu\Models\Textures\vehicle_rcFlyer_dff.tif
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Models\Textures\vehicle_rcFlyer_dff.tif.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Textures\\vehicle_rcFlyer_dff.tif.meta"
+      projectPath: AssetMenu\Models\Textures\vehicle_rcFlyer_dff.tif.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Models\Textures\vehicle_rcFlyer_nrm.tif
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Textures\\vehicle_rcFlyer_nrm.tif"
+      projectPath: AssetMenu\Models\Textures\vehicle_rcFlyer_nrm.tif
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Models\Textures\vehicle_rcFlyer_nrm.tif.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\Textures\\vehicle_rcFlyer_nrm.tif.meta"
+      projectPath: AssetMenu\Models\Textures\vehicle_rcFlyer_nrm.tif.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Models\vehicle_rcFlyer_clean.fbx
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\vehicle_rcFlyer_clean.fbx"
+      projectPath: AssetMenu\Models\vehicle_rcFlyer_clean.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Models\vehicle_rcFlyer_clean.fbx.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Models\\vehicle_rcFlyer_clean.fbx.meta"
+      projectPath: AssetMenu\Models\vehicle_rcFlyer_clean.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Button.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Button.prefab"
+      projectPath: AssetMenu\Prefabs\SF Button.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Button.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Button.prefab.meta"
+      projectPath: AssetMenu\Prefabs\SF Button.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Grid Button.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Grid Button.prefab"
+      projectPath: AssetMenu\Prefabs\SF Grid Button.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Grid Button.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Grid Button.prefab.meta"
+      projectPath: AssetMenu\Prefabs\SF Grid Button.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Scene Elements.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Scene Elements.prefab"
+      projectPath: AssetMenu\Prefabs\SF Scene Elements.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Scene Elements.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Scene Elements.prefab.meta"
+      projectPath: AssetMenu\Prefabs\SF Scene Elements.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Slider.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Slider.prefab"
+      projectPath: AssetMenu\Prefabs\SF Slider.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Slider.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Slider.prefab.meta"
+      projectPath: AssetMenu\Prefabs\SF Slider.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Title.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Title.prefab"
+      projectPath: AssetMenu\Prefabs\SF Title.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Title.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Title.prefab.meta"
+      projectPath: AssetMenu\Prefabs\SF Title.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Toggle.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Toggle.prefab"
+      projectPath: AssetMenu\Prefabs\SF Toggle.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Prefabs\SF Toggle.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\SF Toggle.prefab.meta"
+      projectPath: AssetMenu\Prefabs\SF Toggle.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Prefabs\Slider Lit.prefab
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\Slider Lit.prefab"
+      projectPath: AssetMenu\Prefabs\Slider Lit.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Prefabs\Slider Lit.prefab.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Prefabs\\Slider Lit.prefab.meta"
+      projectPath: AssetMenu\Prefabs\Slider Lit.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Scenes\Controls.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Controls.unity"
+      projectPath: AssetMenu\Scenes\Controls.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Scenes\Controls.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Controls.unity.meta"
+      projectPath: AssetMenu\Scenes\Controls.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Scenes\Drag And Drop.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Drag And Drop.unity"
+      projectPath: AssetMenu\Scenes\Drag And Drop.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Scenes\Drag And Drop.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Drag And Drop.unity.meta"
+      projectPath: AssetMenu\Scenes\Drag And Drop.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Scenes\Draggable Panel.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Draggable Panel.unity"
+      projectPath: AssetMenu\Scenes\Draggable Panel.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Scenes\Draggable Panel.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Draggable Panel.unity.meta"
+      projectPath: AssetMenu\Scenes\Draggable Panel.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Scenes\Layout Groups.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Layout Groups.unity"
+      projectPath: AssetMenu\Scenes\Layout Groups.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Scenes\Layout Groups.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Layout Groups.unity.meta"
+      projectPath: AssetMenu\Scenes\Layout Groups.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Scenes\Lighting.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Lighting.unity"
+      projectPath: AssetMenu\Scenes\Lighting.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Scenes\Lighting.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Lighting.unity.meta"
+      projectPath: AssetMenu\Scenes\Lighting.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Scenes\Menu 3D.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Menu 3D.unity"
+      projectPath: AssetMenu\Scenes\Menu 3D.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Scenes\Menu 3D.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\Menu 3D.unity.meta"
+      projectPath: AssetMenu\Scenes\Menu 3D.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Scenes\RenderTexture.unity
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\RenderTexture.unity"
+      projectPath: AssetMenu\Scenes\RenderTexture.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\Scenes\RenderTexture.unity.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\Scenes\\RenderTexture.unity.meta"
+      projectPath: AssetMenu\Scenes\RenderTexture.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\music\Halo 4 OST - Theme Song.mp3
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\music\\Halo 4 OST - Theme
+        Song.mp3"
+      projectPath: AssetMenu\music\Halo 4 OST - Theme Song.mp3
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AssetMenu\music\Halo 4 OST - Theme Song.mp3.meta
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu\\music\\Halo 4 OST - Theme
+        Song.mp3.meta"
+      projectPath: AssetMenu\music\Halo 4 OST - Theme Song.mp3.meta
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: dfbf42e7a38ccb0db33810de8223d4aabd504c55
+    mergeA: 
+    mergeB: 
+    authorName: Villem_p
+    authorEmail: pvillemain@hotmail.fr
+    commitEmail: pvillemain@hotmail.fr
+    commitName: Villem_p
+    summary: Revert "Create AssetMenu"
+    description: "Revert \"Create AssetMenu\"\r\n\r\nThis reverts commit 2feb06c58fb92cdcbf0afb3dfd6828a915ec7a55."
+    timeString: 2018-02-06T11:04:33.0000000+01:00
+    commitTimeString: 2018-02-06T11:04:33.0000000+01:00
+    changes:
+    - path: AssetMenu
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu"
+      projectPath: AssetMenu
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 2feb06c58fb92cdcbf0afb3dfd6828a915ec7a55
+    mergeA: 
+    mergeB: 
+    authorName: Slaipnir
+    authorEmail: pvillemain@hotmail.fr
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Create AssetMenu
+    description: Create AssetMenu
+    timeString: 2018-02-06T11:03:15.0000000+01:00
+    commitTimeString: 2018-02-06T11:03:15.0000000+01:00
+    changes:
+    - path: AssetMenu
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\AssetMenu"
+      projectPath: AssetMenu
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: ad981550f91b0698c30b1e05a33b2b03d54179f3
+    mergeA: 
+    mergeB: 
+    authorName: Villem_p
+    authorEmail: pvillemain@hotmail.fr
+    commitEmail: pvillemain@hotmail.fr
+    commitName: Villem_p
+    summary: second commit
+    description: second commit
+    timeString: 2018-02-06T10:18:19.0000000+01:00
+    commitTimeString: 2018-02-06T10:18:19.0000000+01:00
+    changes:
+    - path: .vs\PJS4\v15\.suo
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\.vs\\PJS4\\v15\\.suo"
+      projectPath: .vs\PJS4\v15\.suo
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\Collab\CollabSnapshot_22f4e0e0-8ab5-47d9-823a-d3cdb337c371.txt
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\Collab\\CollabSnapshot_22f4e0e0-8ab5-47d9-823a-d3cdb337c371.txt"
+      projectPath: Library\Collab\CollabSnapshot_22f4e0e0-8ab5-47d9-823a-d3cdb337c371.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\CurrentLayout.dwlt"
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ShaderCache\1\1a21a34021af8c2e645f92a19a0aaf4c.bin
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\1\\1a21a34021af8c2e645f92a19a0aaf4c.bin"
+      projectPath: Library\ShaderCache\1\1a21a34021af8c2e645f92a19a0aaf4c.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\3\3708aeb18161596701281f769798f12a.bin
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\3\\3708aeb18161596701281f769798f12a.bin"
+      projectPath: Library\ShaderCache\3\3708aeb18161596701281f769798f12a.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\7\781198686213d8a945ce359a6979d927.bin
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\7\\781198686213d8a945ce359a6979d927.bin"
+      projectPath: Library\ShaderCache\7\781198686213d8a945ce359a6979d927.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\e\e7b93270c60872327e1d457b4ddf261a.bin
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\e\\e7b93270c60872327e1d457b4ddf261a.bin"
+      projectPath: Library\ShaderCache\e\e7b93270c60872327e1d457b4ddf261a.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\f\fc2b648f0078337fdc4ec60316b3cc7e.bin
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\f\\fc2b648f0078337fdc4ec60316b3cc7e.bin"
+      projectPath: Library\ShaderCache\f\fc2b648f0078337fdc4ec60316b3cc7e.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\f\fdf7bc3e03fc0213eff38c53173459b0.bin
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\f\\fdf7bc3e03fc0213eff38c53173459b0.bin"
+      projectPath: Library\ShaderCache\f\fdf7bc3e03fc0213eff38c53173459b0.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\assetDatabase3"
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\expandedItems
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\expandedItems"
+      projectPath: Library\expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\branches.yaml"
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\gitlocks.yaml"
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\gitlog.yaml"
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\gitstatusentries.yaml"
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\gittrackingstatus.yaml"
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\gituser.yaml"
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\repoinfo.yaml"
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000002000000000000000
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000002000000000000000"
+      projectPath: Library\metadata\00\00000000000000002000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000003000000000000000
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000003000000000000000"
+      projectPath: Library\metadata\00\00000000000000003000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000004000000000000000
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000004000000000000000"
+      projectPath: Library\metadata\00\00000000000000004000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000004100000000000000
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000004100000000000000"
+      projectPath: Library\metadata\00\00000000000000004100000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000005000000000000000
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000005000000000000000"
+      projectPath: Library\metadata\00\00000000000000005000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000005100000000000000
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000005100000000000000"
+      projectPath: Library\metadata\00\00000000000000005100000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000006000000000000000
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000006000000000000000"
+      projectPath: Library\metadata\00\00000000000000006000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000006100000000000000
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000006100000000000000"
+      projectPath: Library\metadata\00\00000000000000006100000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000007000000000000000
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000007000000000000000"
+      projectPath: Library\metadata\00\00000000000000007000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000007100000000000000
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000007100000000000000"
+      projectPath: Library\metadata\00\00000000000000007100000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000008000000000000000
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000008000000000000000"
+      projectPath: Library\metadata\00\00000000000000008000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000009000000000000000
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000009000000000000000"
+      projectPath: Library\metadata\00\00000000000000009000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\0000000000000000a000000000000000
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\0000000000000000a000000000000000"
+      projectPath: Library\metadata\00\0000000000000000a000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\0000000000000000a100000000000000
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\0000000000000000a100000000000000"
+      projectPath: Library\metadata\00\0000000000000000a100000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\0000000000000000b000000000000000
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\0000000000000000b000000000000000"
+      projectPath: Library\metadata\00\0000000000000000b000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\0000000000000000c000000000000000
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\0000000000000000c000000000000000"
+      projectPath: Library\metadata\00\0000000000000000c000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\52\\52a206b72a8f4f749c28d8b18b42dd19"
+      projectPath: Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\shadercompiler-UnityShaderCompiler.exe0.log"
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: PJS4.sln
+      fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\PJS4.sln"
+      projectPath: PJS4.sln
+      originalPath: 
+      status: 4
+      staged: 0
   - commitID: c09a2a3c635077c63475a8247af32778c05182ee
     mergeA: 
     mergeB: 

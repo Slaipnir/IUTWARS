@@ -11,9 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-30T12:50:54.9155413+01:00
-  lastVerifiedAtString: 2018-01-30T12:50:54.9290378+01:00
-  initializedAtString: 2018-01-30T12:48:36.9806843+01:00
+  lastUpdatedAtString: 2018-02-06T11:23:30.6543129+01:00
+  lastVerifiedAtString: 2018-02-06T11:23:30.6708604+01:00
+  initializedAtString: 2018-02-06T11:23:26.8136316+01:00
   gitConfigBranch:
     name: master
     remote:
@@ -28,6 +28,9 @@ MonoBehaviour:
     isActive: 1
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/master
     tracking: '[None]'
     isActive: 0
   remotes:
@@ -52,9 +55,14 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
+      - master
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/Slaipnir/IUTWARS.git
+      - name: master
         remote:
           name: origin
           url: https://github.com/Slaipnir/IUTWARS.git

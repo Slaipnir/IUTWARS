@@ -1,14 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PJS4", "Assembly-CSharp.csproj", "{4C579216-BD3F-3DF2-AEC6-24C698F6F9CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{4C579216-BD3F-3DF2-AEC6-24C698F6F9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C579216-BD3F-3DF2-AEC6-24C698F6F9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C579216-BD3F-3DF2-AEC6-24C698F6F9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C579216-BD3F-3DF2-AEC6-24C698F6F9CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
