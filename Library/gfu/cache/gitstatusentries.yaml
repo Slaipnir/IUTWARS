@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastUpdatedAtString: 2018-01-30T12:48:39.0525192+01:00
+  lastVerifiedAtString: 2018-01-30T12:48:39.0525192+01:00
+  initializedAtString: 2018-01-30T12:48:38.3375960+01:00
+  entries:
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ScriptAssemblies\\BuiltinAssemblies.stamp"
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\assetDatabase3"
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\gituser.yaml"
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000002000000000000000
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000002000000000000000"
+    projectPath: Library\metadata\00\00000000000000002000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000003000000000000000
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000003000000000000000"
+    projectPath: Library\metadata\00\00000000000000003000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000004000000000000000
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000004000000000000000"
+    projectPath: Library\metadata\00\00000000000000004000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000004100000000000000
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000004100000000000000"
+    projectPath: Library\metadata\00\00000000000000004100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000005000000000000000
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000005000000000000000"
+    projectPath: Library\metadata\00\00000000000000005000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000005100000000000000
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000005100000000000000"
+    projectPath: Library\metadata\00\00000000000000005100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000006000000000000000
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000006000000000000000"
+    projectPath: Library\metadata\00\00000000000000006000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000006100000000000000
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000006100000000000000"
+    projectPath: Library\metadata\00\00000000000000006100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000007000000000000000
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000007000000000000000"
+    projectPath: Library\metadata\00\00000000000000007000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000007100000000000000
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000007100000000000000"
+    projectPath: Library\metadata\00\00000000000000007100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000008000000000000000
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000008000000000000000"
+    projectPath: Library\metadata\00\00000000000000008000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000009000000000000000
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\00000000000000009000000000000000"
+    projectPath: Library\metadata\00\00000000000000009000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000a000000000000000
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\0000000000000000a000000000000000"
+    projectPath: Library\metadata\00\0000000000000000a000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000a100000000000000
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\0000000000000000a100000000000000"
+    projectPath: Library\metadata\00\0000000000000000a100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000b000000000000000
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\0000000000000000b000000000000000"
+    projectPath: Library\metadata\00\0000000000000000b000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000c000000000000000
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\00\\0000000000000000c000000000000000"
+    projectPath: Library\metadata\00\0000000000000000c000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\52\\52a206b72a8f4f749c28d8b18b42dd19"
+    projectPath: Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\shadercompiler-UnityShaderCompiler.exe0.log"
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\ProjectSettings\\ProjectVersion.txt"
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\EditorInstance.json"
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\1\1a21a34021af8c2e645f92a19a0aaf4c.bin
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\1\\1a21a34021af8c2e645f92a19a0aaf4c.bin"
+    projectPath: Library\ShaderCache\1\1a21a34021af8c2e645f92a19a0aaf4c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\3\3708aeb18161596701281f769798f12a.bin
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\3\\3708aeb18161596701281f769798f12a.bin"
+    projectPath: Library\ShaderCache\3\3708aeb18161596701281f769798f12a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\7\781198686213d8a945ce359a6979d927.bin
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\7\\781198686213d8a945ce359a6979d927.bin"
+    projectPath: Library\ShaderCache\7\781198686213d8a945ce359a6979d927.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\e\e7b93270c60872327e1d457b4ddf261a.bin
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\e\\e7b93270c60872327e1d457b4ddf261a.bin"
+    projectPath: Library\ShaderCache\e\e7b93270c60872327e1d457b4ddf261a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\fc2b648f0078337fdc4ec60316b3cc7e.bin
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\f\\fc2b648f0078337fdc4ec60316b3cc7e.bin"
+    projectPath: Library\ShaderCache\f\fc2b648f0078337fdc4ec60316b3cc7e.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\fdf7bc3e03fc0213eff38c53173459b0.bin
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\f\\fdf7bc3e03fc0213eff38c53173459b0.bin"
+    projectPath: Library\ShaderCache\f\fdf7bc3e03fc0213eff38c53173459b0.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\branches.yaml"
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\gitlocks.yaml"
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\gitlog.yaml"
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\gitstatusentries.yaml"
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\gittrackingstatus.yaml"
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\repoinfo.yaml"
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: PJS4.sln
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\PJS4.sln"
+    projectPath: PJS4.sln
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Temp\\UnityLockfile"
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
