@@ -11,193 +11,427 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-02-16T12:07:37.1371952+01:00
-  lastVerifiedAtString: 2018-02-16T12:07:37.1371952+01:00
-  initializedAtString: 2018-02-16T11:20:09.3381397+01:00
+  lastUpdatedAtString: 2018-02-16T12:48:47.1263287+01:00
+  lastVerifiedAtString: 2018-02-16T12:48:47.2263989+01:00
+  initializedAtString: 2018-02-16T12:48:47.1263287+01:00
   entries:
-  - path: .vs\PJS4\v15\.suo
-    fullPath: D:\IUT_INFO\Annee2\PJS4\.vs\PJS4\v15\.suo
-    projectPath: .vs\PJS4\v15\.suo
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\MainMenu.cs
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Assets\MainMenu.cs
-    projectPath: Assets\MainMenu.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Scene\MainMenu.unity
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Assets\Scene\MainMenu.unity
-    projectPath: Assets\Scene\MainMenu.unity
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\Collab\CollabSnapshot_22f4e0e0-8ab5-47d9-823a-d3cdb337c371.txt
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\Collab\CollabSnapshot_22f4e0e0-8ab5-47d9-823a-d3cdb337c371.txt
-    projectPath: Library\Collab\CollabSnapshot_22f4e0e0-8ab5-47d9-823a-d3cdb337c371.txt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\CurrentMaximizeLayout.dwlt
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     originalPath: 
     status: 3
     staged: 0
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    status: 5
+    staged: 0
   - path: Library\assetDatabase3
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\assetDatabase3
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
+  - path: Library\metadata\00\00000000000000002000000000000000
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\00\00000000000000002000000000000000
+    projectPath: Library\metadata\00\00000000000000002000000000000000
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
+  - path: Library\metadata\00\00000000000000003000000000000000
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\00\00000000000000003000000000000000
+    projectPath: Library\metadata\00\00000000000000003000000000000000
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
+  - path: Library\metadata\00\00000000000000004000000000000000
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\00\00000000000000004000000000000000
+    projectPath: Library\metadata\00\00000000000000004000000000000000
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
+  - path: Library\metadata\00\00000000000000004100000000000000
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\00\00000000000000004100000000000000
+    projectPath: Library\metadata\00\00000000000000004100000000000000
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\gfu\cache\gittrackingstatus.yaml
-    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+  - path: Library\metadata\00\00000000000000005000000000000000
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\00\00000000000000005000000000000000
+    projectPath: Library\metadata\00\00000000000000005000000000000000
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\gfu\cache\gituser.yaml
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
+  - path: Library\metadata\00\00000000000000005100000000000000
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\00\00000000000000005100000000000000
+    projectPath: Library\metadata\00\00000000000000005100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000006000000000000000
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\00\00000000000000006000000000000000
+    projectPath: Library\metadata\00\00000000000000006000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000006100000000000000
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\00\00000000000000006100000000000000
+    projectPath: Library\metadata\00\00000000000000006100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000007000000000000000
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\00\00000000000000007000000000000000
+    projectPath: Library\metadata\00\00000000000000007000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000007100000000000000
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\00\00000000000000007100000000000000
+    projectPath: Library\metadata\00\00000000000000007100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000008000000000000000
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\00\00000000000000008000000000000000
+    projectPath: Library\metadata\00\00000000000000008000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000009000000000000000
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\00\00000000000000009000000000000000
+    projectPath: Library\metadata\00\00000000000000009000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000a000000000000000
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\00\0000000000000000a000000000000000
+    projectPath: Library\metadata\00\0000000000000000a000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000a100000000000000
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\00\0000000000000000a100000000000000
+    projectPath: Library\metadata\00\0000000000000000a100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000b000000000000000
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\00\0000000000000000b000000000000000
+    projectPath: Library\metadata\00\0000000000000000b000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000c000000000000000
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\00\0000000000000000c000000000000000
+    projectPath: Library\metadata\00\0000000000000000c000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+    projectPath: Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+    projectPath: Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+    projectPath: Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+    projectPath: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+    projectPath: Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
+    projectPath: Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+    projectPath: Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+    projectPath: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+    projectPath: Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    projectPath: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\40\405b9b51bb344a128608d968297df79c
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\40\405b9b51bb344a128608d968297df79c
+    projectPath: Library\metadata\40\405b9b51bb344a128608d968297df79c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+    projectPath: Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+    projectPath: Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    projectPath: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    projectPath: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+    projectPath: Library\metadata\51\517af1b5b81b93b43b9745d58f017562
     originalPath: 
     status: 3
     staged: 0
   - path: Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
     projectPath: Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19.info
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19.info
+    projectPath: Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    projectPath: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\60\6056a68735ec3954f9a7454e53bba364
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\metadata\60\6056a68735ec3954f9a7454e53bba364
-    projectPath: Library\metadata\60\6056a68735ec3954f9a7454e53bba364
+  - path: Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+    projectPath: Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    projectPath: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\69\6981461fe431401459211818212a29cf
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\69\6981461fe431401459211818212a29cf
+    projectPath: Library\metadata\69\6981461fe431401459211818212a29cf
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    projectPath: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+    projectPath: Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    projectPath: Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    projectPath: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    projectPath: Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+    projectPath: Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    projectPath: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+    projectPath: Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+    projectPath: Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+    projectPath: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+    projectPath: Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+    projectPath: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\b5\b5da970776034f77a070d99423d68791
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\b5\b5da970776034f77a070d99423d68791
+    projectPath: Library\metadata\b5\b5da970776034f77a070d99423d68791
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
+    projectPath: Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
+    projectPath: Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\d0\d05b96cee66e14240838de167097537a
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\d0\d05b96cee66e14240838de167097537a
+    projectPath: Library\metadata\d0\d05b96cee66e14240838de167097537a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+    projectPath: Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+    projectPath: Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+    projectPath: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+    projectPath: Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+    projectPath: Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+    projectPath: Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+    projectPath: Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+    projectPath: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+    projectPath: Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+    projectPath: Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
     originalPath: 
     status: 3
     staged: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     status: 3
     staged: 0
-  - path: PJS4.sln
-    fullPath: D:\IUT_INFO\Annee2\PJS4\PJS4.sln
-    projectPath: PJS4.sln
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: C:\Users\arthu\Documents\GitHub\IUTWARS\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
     originalPath: 
     status: 3
-    staged: 0
-  - path: .vs\PJS4\v15\Server\sqlite3\db.lock
-    fullPath: D:\IUT_INFO\Annee2\PJS4\.vs\PJS4\v15\Server\sqlite3\db.lock
-    projectPath: .vs\PJS4\v15\Server\sqlite3\db.lock
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: .vs\PJS4\v15\Server\sqlite3\storage.ide
-    fullPath: D:\IUT_INFO\Annee2\PJS4\.vs\PJS4\v15\Server\sqlite3\storage.ide
-    projectPath: .vs\PJS4\v15\Server\sqlite3\storage.ide
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\CrashedAssetImports.txt
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\CrashedAssetImports.txt
-    projectPath: Library\CrashedAssetImports.txt
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\EditorInstance.json
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\4\46835ef14ff8b76ce23a8f09a4b6ff16.bin
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\ShaderCache\4\46835ef14ff8b76ce23a8f09a4b6ff16.bin
-    projectPath: Library\ShaderCache\4\46835ef14ff8b76ce23a8f09a4b6ff16.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\7\76a0bdd25f6a90e3bbd2927d6965746a.bin
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\ShaderCache\7\76a0bdd25f6a90e3bbd2927d6965746a.bin
-    projectPath: Library\ShaderCache\7\76a0bdd25f6a90e3bbd2927d6965746a.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: PJS4.csproj
-    fullPath: D:\IUT_INFO\Annee2\PJS4\PJS4.csproj
-    projectPath: PJS4.csproj
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityLockfile
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-82711b73927f9034dbc3ec863a33f50b
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Temp\UnityTempFile-82711b73927f9034dbc3ec863a33f50b
-    projectPath: Temp\UnityTempFile-82711b73927f9034dbc3ec863a33f50b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-8577a809847dc7b4384a1fb13eac37d1
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Temp\UnityTempFile-8577a809847dc7b4384a1fb13eac37d1
-    projectPath: Temp\UnityTempFile-8577a809847dc7b4384a1fb13eac37d1
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-e170a766d36918b4eacb6921cce201f1
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Temp\UnityTempFile-e170a766d36918b4eacb6921cce201f1
-    projectPath: Temp\UnityTempFile-e170a766d36918b4eacb6921cce201f1
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityVS_obj\Debug\PJS4.csproj.CoreCompileInputs.cache
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Temp\UnityVS_obj\Debug\PJS4.csproj.CoreCompileInputs.cache
-    projectPath: Temp\UnityVS_obj\Debug\PJS4.csproj.CoreCompileInputs.cache
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\__Backupscenes\0.backup
-    fullPath: D:\IUT_INFO\Annee2\PJS4\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    status: 1
     staged: 0
