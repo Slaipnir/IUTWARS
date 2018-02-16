@@ -333,6 +333,7 @@
     <Compile Include="Assets\AssetMenu\Scripts\ActiveStateToggler.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\ApplicationManager.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\ChangeColor.cs" />
+    <Compile Include="Assets\AssetMenu\Scripts\DataSave.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\DragMe.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\DragPanel.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\DropMe.cs" />
