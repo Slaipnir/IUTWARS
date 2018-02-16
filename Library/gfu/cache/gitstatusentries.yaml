@@ -11,1675 +11,193 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-02-06T11:23:32.4641280+01:00
-  lastVerifiedAtString: 2018-02-06T11:23:32.4641280+01:00
-  initializedAtString: 2018-02-06T11:23:31.8690789+01:00
+  lastUpdatedAtString: 2018-02-16T12:07:37.1371952+01:00
+  lastVerifiedAtString: 2018-02-16T12:07:37.1371952+01:00
+  initializedAtString: 2018-02-16T11:20:09.3381397+01:00
   entries:
+  - path: .vs\PJS4\v15\.suo
+    fullPath: D:\IUT_INFO\Annee2\PJS4\.vs\PJS4\v15\.suo
+    projectPath: .vs\PJS4\v15\.suo
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\MainMenu.cs
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Assets\MainMenu.cs
+    projectPath: Assets\MainMenu.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scene\MainMenu.unity
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Assets\Scene\MainMenu.unity
+    projectPath: Assets\Scene\MainMenu.unity
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library\Collab\CollabSnapshot_22f4e0e0-8ab5-47d9-823a-d3cdb337c371.txt
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\Collab\\CollabSnapshot_22f4e0e0-8ab5-47d9-823a-d3cdb337c371.txt"
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\Collab\CollabSnapshot_22f4e0e0-8ab5-47d9-823a-d3cdb337c371.txt
     projectPath: Library\Collab\CollabSnapshot_22f4e0e0-8ab5-47d9-823a-d3cdb337c371.txt
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\CurrentLayout.dwlt
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\CurrentLayout.dwlt"
-    projectPath: Library\CurrentLayout.dwlt
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\LastSceneManagerSetup.txt
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\LastSceneManagerSetup.txt"
-    projectPath: Library\LastSceneManagerSetup.txt
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ScriptAssemblies\\BuiltinAssemblies.stamp"
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\ScriptMapper
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ScriptMapper"
-    projectPath: Library\ScriptMapper
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     originalPath: 
     status: 3
     staged: 0
   - path: Library\assetDatabase3
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\assetDatabase3"
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     status: 3
     staged: 0
   - path: Library\gfu\cache\branches.yaml
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\branches.yaml"
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\gitlocks.yaml"
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Library\gfu\cache\gitlog.yaml
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\gitlog.yaml"
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\gitstatusentries.yaml"
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\gittrackingstatus.yaml"
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Library\gfu\cache\gituser.yaml
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\gfu\\cache\\gituser.yaml"
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\gfu\cache\gituser.yaml
     projectPath: Library\gfu\cache\gituser.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\52\\52a206b72a8f4f749c28d8b18b42dd19"
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
     projectPath: Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
     originalPath: 
     status: 3
     staged: 0
+  - path: Library\metadata\60\6056a68735ec3954f9a7454e53bba364
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\metadata\60\6056a68735ec3954f9a7454e53bba364
+    projectPath: Library\metadata\60\6056a68735ec3954f9a7454e53bba364
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\shadercompiler-UnityShaderCompiler.exe0.log"
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     status: 3
     staged: 0
   - path: PJS4.sln
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\PJS4.sln"
+    fullPath: D:\IUT_INFO\Annee2\PJS4\PJS4.sln
     projectPath: PJS4.sln
     originalPath: 
     status: 3
     staged: 0
-  - path: ProjectSettings\ProjectVersion.txt
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\ProjectSettings\\ProjectVersion.txt"
-    projectPath: ProjectSettings\ProjectVersion.txt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assembly-CSharp.csproj
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Assembly-CSharp.csproj"
-    projectPath: Assembly-CSharp.csproj
+  - path: .vs\PJS4\v15\Server\sqlite3\db.lock
+    fullPath: D:\IUT_INFO\Annee2\PJS4\.vs\PJS4\v15\Server\sqlite3\db.lock
+    projectPath: .vs\PJS4\v15\Server\sqlite3\db.lock
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\AtlasCache\4d\4d300479b6781da066018cbde32e59bb
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\AtlasCache\\4d\\4d300479b6781da066018cbde32e59bb"
-    projectPath: Library\AtlasCache\4d\4d300479b6781da066018cbde32e59bb
+  - path: .vs\PJS4\v15\Server\sqlite3\storage.ide
+    fullPath: D:\IUT_INFO\Annee2\PJS4\.vs\PJS4\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\PJS4\v15\Server\sqlite3\storage.ide
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\CurrentMaximizeLayout.dwlt
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\CurrentMaximizeLayout.dwlt"
-    projectPath: Library\CurrentMaximizeLayout.dwlt
+  - path: Library\CrashedAssetImports.txt
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
     originalPath: 
     status: 1
     staged: 0
   - path: Library\EditorInstance.json
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\EditorInstance.json"
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ScriptAssemblies\\Assembly-CSharp.dll"
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+  - path: Library\ShaderCache\4\46835ef14ff8b76ce23a8f09a4b6ff16.bin
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\ShaderCache\4\46835ef14ff8b76ce23a8f09a4b6ff16.bin
+    projectPath: Library\ShaderCache\4\46835ef14ff8b76ce23a8f09a4b6ff16.bin
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ScriptAssemblies\\Assembly-CSharp.dll.mdb"
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+  - path: Library\ShaderCache\7\76a0bdd25f6a90e3bbd2927d6965746a.bin
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Library\ShaderCache\7\76a0bdd25f6a90e3bbd2927d6965746a.bin
+    projectPath: Library\ShaderCache\7\76a0bdd25f6a90e3bbd2927d6965746a.bin
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache.db
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache.db"
-    projectPath: Library\ShaderCache.db
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\0\02a68e9ca4a27a34bae2293ace086f45.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\0\\02a68e9ca4a27a34bae2293ace086f45.bin"
-    projectPath: Library\ShaderCache\0\02a68e9ca4a27a34bae2293ace086f45.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\0\0bdf63c6c98a2bae42d95e0bf021e9a7.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\0\\0bdf63c6c98a2bae42d95e0bf021e9a7.bin"
-    projectPath: Library\ShaderCache\0\0bdf63c6c98a2bae42d95e0bf021e9a7.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\2\236db6c4b4e43fc89c9d006388e1930e.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\2\\236db6c4b4e43fc89c9d006388e1930e.bin"
-    projectPath: Library\ShaderCache\2\236db6c4b4e43fc89c9d006388e1930e.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\2\2801c38da19a3a153438e2462c4d40c4.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\2\\2801c38da19a3a153438e2462c4d40c4.bin"
-    projectPath: Library\ShaderCache\2\2801c38da19a3a153438e2462c4d40c4.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\4\47fcc257e7aeec0577cd8896bd35bc54.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\4\\47fcc257e7aeec0577cd8896bd35bc54.bin"
-    projectPath: Library\ShaderCache\4\47fcc257e7aeec0577cd8896bd35bc54.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\5\51b21f90e334d3ffcbe0f69484380731.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\5\\51b21f90e334d3ffcbe0f69484380731.bin"
-    projectPath: Library\ShaderCache\5\51b21f90e334d3ffcbe0f69484380731.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\5\571096555e36f6c52be023faaac57239.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\5\\571096555e36f6c52be023faaac57239.bin"
-    projectPath: Library\ShaderCache\5\571096555e36f6c52be023faaac57239.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\5\5b122b5d9019d06d0519bb0d8a227f41.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\5\\5b122b5d9019d06d0519bb0d8a227f41.bin"
-    projectPath: Library\ShaderCache\5\5b122b5d9019d06d0519bb0d8a227f41.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\5\5c65d9257565a2c83adf45cc793d3128.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\5\\5c65d9257565a2c83adf45cc793d3128.bin"
-    projectPath: Library\ShaderCache\5\5c65d9257565a2c83adf45cc793d3128.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\5\5e1c996dcaf9192e912dc493f1952d54.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\5\\5e1c996dcaf9192e912dc493f1952d54.bin"
-    projectPath: Library\ShaderCache\5\5e1c996dcaf9192e912dc493f1952d54.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\6\6037ab552851e44e81fa48a79537542b.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\6\\6037ab552851e44e81fa48a79537542b.bin"
-    projectPath: Library\ShaderCache\6\6037ab552851e44e81fa48a79537542b.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\6\672e171e7f41857c370565b7021e255b.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\6\\672e171e7f41857c370565b7021e255b.bin"
-    projectPath: Library\ShaderCache\6\672e171e7f41857c370565b7021e255b.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\7\7361c1a313947b431b0c3865170ca0f2.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\7\\7361c1a313947b431b0c3865170ca0f2.bin"
-    projectPath: Library\ShaderCache\7\7361c1a313947b431b0c3865170ca0f2.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\7\77c23a7ed9f03607e5551e12340da162.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\7\\77c23a7ed9f03607e5551e12340da162.bin"
-    projectPath: Library\ShaderCache\7\77c23a7ed9f03607e5551e12340da162.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\7\7a8e0216f6c7e826a11f4fefd1113734.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\7\\7a8e0216f6c7e826a11f4fefd1113734.bin"
-    projectPath: Library\ShaderCache\7\7a8e0216f6c7e826a11f4fefd1113734.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\7\7bf6301278a97a210790a782f91be74a.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\7\\7bf6301278a97a210790a782f91be74a.bin"
-    projectPath: Library\ShaderCache\7\7bf6301278a97a210790a782f91be74a.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\8\80832009463753144cafb5e366de1bc9.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\8\\80832009463753144cafb5e366de1bc9.bin"
-    projectPath: Library\ShaderCache\8\80832009463753144cafb5e366de1bc9.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\8\836d3f78b0f683dd3098eb33f1a33726.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\8\\836d3f78b0f683dd3098eb33f1a33726.bin"
-    projectPath: Library\ShaderCache\8\836d3f78b0f683dd3098eb33f1a33726.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\8\881b66840de4004bb187f4ab4c3bda38.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\8\\881b66840de4004bb187f4ab4c3bda38.bin"
-    projectPath: Library\ShaderCache\8\881b66840de4004bb187f4ab4c3bda38.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\9\983c9f179981d5b957f35896c6a92acb.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\9\\983c9f179981d5b957f35896c6a92acb.bin"
-    projectPath: Library\ShaderCache\9\983c9f179981d5b957f35896c6a92acb.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\9\9e96d6ac10a597a84a93c4e5746a02fe.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\9\\9e96d6ac10a597a84a93c4e5746a02fe.bin"
-    projectPath: Library\ShaderCache\9\9e96d6ac10a597a84a93c4e5746a02fe.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\a\ac3360d59a7b94f9d01bc403a11ccd3d.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\a\\ac3360d59a7b94f9d01bc403a11ccd3d.bin"
-    projectPath: Library\ShaderCache\a\ac3360d59a7b94f9d01bc403a11ccd3d.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\c\c82ce75eb11c8e8e958d9567ea1318bb.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\c\\c82ce75eb11c8e8e958d9567ea1318bb.bin"
-    projectPath: Library\ShaderCache\c\c82ce75eb11c8e8e958d9567ea1318bb.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\c\cb17b8ad412b61cbae6af6a082d9ed44.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\c\\cb17b8ad412b61cbae6af6a082d9ed44.bin"
-    projectPath: Library\ShaderCache\c\cb17b8ad412b61cbae6af6a082d9ed44.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\c\ce2571b524e6f2f19c86192d6afa7954.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\c\\ce2571b524e6f2f19c86192d6afa7954.bin"
-    projectPath: Library\ShaderCache\c\ce2571b524e6f2f19c86192d6afa7954.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\d\d43684b76f09aa33e5ec2cd4d6775dae.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\d\\d43684b76f09aa33e5ec2cd4d6775dae.bin"
-    projectPath: Library\ShaderCache\d\d43684b76f09aa33e5ec2cd4d6775dae.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\e\e1273b4fa6d41fab1646d229ea26b97d.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\e\\e1273b4fa6d41fab1646d229ea26b97d.bin"
-    projectPath: Library\ShaderCache\e\e1273b4fa6d41fab1646d229ea26b97d.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\e\e1755845df4b97690eb8cfea3bb89464.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\e\\e1755845df4b97690eb8cfea3bb89464.bin"
-    projectPath: Library\ShaderCache\e\e1755845df4b97690eb8cfea3bb89464.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\e\e6ea1c246feaa281a3ebb814b3351f17.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\e\\e6ea1c246feaa281a3ebb814b3351f17.bin"
-    projectPath: Library\ShaderCache\e\e6ea1c246feaa281a3ebb814b3351f17.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\e\eb0258b0208492a49e3dc39f57b3b60b.bin
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\ShaderCache\\e\\eb0258b0208492a49e3dc39f57b3b60b.bin"
-    projectPath: Library\ShaderCache\e\eb0258b0208492a49e3dc39f57b3b60b.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\01\017120279e2244a70b07c667291aca40
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\01\\017120279e2244a70b07c667291aca40"
-    projectPath: Library\metadata\01\017120279e2244a70b07c667291aca40
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\01\017120279e2244a70b07c667291aca40.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\01\\017120279e2244a70b07c667291aca40.info"
-    projectPath: Library\metadata\01\017120279e2244a70b07c667291aca40.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\02\022a5dbc82be311428eec45125477996
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\02\\022a5dbc82be311428eec45125477996"
-    projectPath: Library\metadata\02\022a5dbc82be311428eec45125477996
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\02\022a5dbc82be311428eec45125477996.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\02\\022a5dbc82be311428eec45125477996.info"
-    projectPath: Library\metadata\02\022a5dbc82be311428eec45125477996.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\03\03f576efdc43d454f9f77e615e485eb8
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\03\\03f576efdc43d454f9f77e615e485eb8"
-    projectPath: Library\metadata\03\03f576efdc43d454f9f77e615e485eb8
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\03\03f576efdc43d454f9f77e615e485eb8.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\03\\03f576efdc43d454f9f77e615e485eb8.info"
-    projectPath: Library\metadata\03\03f576efdc43d454f9f77e615e485eb8.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\04\04b3957d8ef9547418f259e4030ede00
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\04\\04b3957d8ef9547418f259e4030ede00"
-    projectPath: Library\metadata\04\04b3957d8ef9547418f259e4030ede00
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\04\04b3957d8ef9547418f259e4030ede00.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\04\\04b3957d8ef9547418f259e4030ede00.info"
-    projectPath: Library\metadata\04\04b3957d8ef9547418f259e4030ede00.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\05\05a81c3d5091440058129444d28322f3
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\05\\05a81c3d5091440058129444d28322f3"
-    projectPath: Library\metadata\05\05a81c3d5091440058129444d28322f3
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\05\05a81c3d5091440058129444d28322f3.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\05\\05a81c3d5091440058129444d28322f3.info"
-    projectPath: Library\metadata\05\05a81c3d5091440058129444d28322f3.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\0a\0ad7c77e77679ab46bf11303c59b229a
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\0a\\0ad7c77e77679ab46bf11303c59b229a"
-    projectPath: Library\metadata\0a\0ad7c77e77679ab46bf11303c59b229a
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\0a\0ad7c77e77679ab46bf11303c59b229a.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\0a\\0ad7c77e77679ab46bf11303c59b229a.info"
-    projectPath: Library\metadata\0a\0ad7c77e77679ab46bf11303c59b229a.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\11\1182605a67e89c34996a4dff4126aa0c
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\11\\1182605a67e89c34996a4dff4126aa0c"
-    projectPath: Library\metadata\11\1182605a67e89c34996a4dff4126aa0c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\11\1182605a67e89c34996a4dff4126aa0c.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\11\\1182605a67e89c34996a4dff4126aa0c.info"
-    projectPath: Library\metadata\11\1182605a67e89c34996a4dff4126aa0c.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\12\1238f32bb27c642c5b81174a099459f4
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\12\\1238f32bb27c642c5b81174a099459f4"
-    projectPath: Library\metadata\12\1238f32bb27c642c5b81174a099459f4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\12\1238f32bb27c642c5b81174a099459f4.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\12\\1238f32bb27c642c5b81174a099459f4.info"
-    projectPath: Library\metadata\12\1238f32bb27c642c5b81174a099459f4.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\13\137fe1b78810a81498d835be344f2d69
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\13\\137fe1b78810a81498d835be344f2d69"
-    projectPath: Library\metadata\13\137fe1b78810a81498d835be344f2d69
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\13\137fe1b78810a81498d835be344f2d69.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\13\\137fe1b78810a81498d835be344f2d69.info"
-    projectPath: Library\metadata\13\137fe1b78810a81498d835be344f2d69.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\13\13b46e70f240943ccb1f2665a779f3a6
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\13\\13b46e70f240943ccb1f2665a779f3a6"
-    projectPath: Library\metadata\13\13b46e70f240943ccb1f2665a779f3a6
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\13\13b46e70f240943ccb1f2665a779f3a6.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\13\\13b46e70f240943ccb1f2665a779f3a6.info"
-    projectPath: Library\metadata\13\13b46e70f240943ccb1f2665a779f3a6.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\13\13d48294147f7454e9ca4e4d075bcd04
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\13\\13d48294147f7454e9ca4e4d075bcd04"
-    projectPath: Library\metadata\13\13d48294147f7454e9ca4e4d075bcd04
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\13\13d48294147f7454e9ca4e4d075bcd04.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\13\\13d48294147f7454e9ca4e4d075bcd04.info"
-    projectPath: Library\metadata\13\13d48294147f7454e9ca4e4d075bcd04.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\16\16adfeb90f2004348b7dfad7eb9ae316
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\16\\16adfeb90f2004348b7dfad7eb9ae316"
-    projectPath: Library\metadata\16\16adfeb90f2004348b7dfad7eb9ae316
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\16\16adfeb90f2004348b7dfad7eb9ae316.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\16\\16adfeb90f2004348b7dfad7eb9ae316.info"
-    projectPath: Library\metadata\16\16adfeb90f2004348b7dfad7eb9ae316.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\16\16b92c8aacae1994ead2e1cda3bc553a
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\16\\16b92c8aacae1994ead2e1cda3bc553a"
-    projectPath: Library\metadata\16\16b92c8aacae1994ead2e1cda3bc553a
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\16\16b92c8aacae1994ead2e1cda3bc553a.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\16\\16b92c8aacae1994ead2e1cda3bc553a.info"
-    projectPath: Library\metadata\16\16b92c8aacae1994ead2e1cda3bc553a.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\19\192d548898c01fb43bf53b8e95b9fff3
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\19\\192d548898c01fb43bf53b8e95b9fff3"
-    projectPath: Library\metadata\19\192d548898c01fb43bf53b8e95b9fff3
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\19\192d548898c01fb43bf53b8e95b9fff3.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\19\\192d548898c01fb43bf53b8e95b9fff3.info"
-    projectPath: Library\metadata\19\192d548898c01fb43bf53b8e95b9fff3.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\1a\1a3d5a893a26f254c841b11fc1af96a5
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\1a\\1a3d5a893a26f254c841b11fc1af96a5"
-    projectPath: Library\metadata\1a\1a3d5a893a26f254c841b11fc1af96a5
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\1a\1a3d5a893a26f254c841b11fc1af96a5.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\1a\\1a3d5a893a26f254c841b11fc1af96a5.info"
-    projectPath: Library\metadata\1a\1a3d5a893a26f254c841b11fc1af96a5.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\1d\1d49f63596dbd412fa2c32ef87fdf2f0
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\1d\\1d49f63596dbd412fa2c32ef87fdf2f0"
-    projectPath: Library\metadata\1d\1d49f63596dbd412fa2c32ef87fdf2f0
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\1d\1d49f63596dbd412fa2c32ef87fdf2f0.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\1d\\1d49f63596dbd412fa2c32ef87fdf2f0.info"
-    projectPath: Library\metadata\1d\1d49f63596dbd412fa2c32ef87fdf2f0.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\1d\1df06442d6743394294e66b9d27f94aa
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\1d\\1df06442d6743394294e66b9d27f94aa"
-    projectPath: Library\metadata\1d\1df06442d6743394294e66b9d27f94aa
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\1d\1df06442d6743394294e66b9d27f94aa.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\1d\\1df06442d6743394294e66b9d27f94aa.info"
-    projectPath: Library\metadata\1d\1df06442d6743394294e66b9d27f94aa.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\1f\1f1d5baae1d26404a8a639a07e5c7766
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\1f\\1f1d5baae1d26404a8a639a07e5c7766"
-    projectPath: Library\metadata\1f\1f1d5baae1d26404a8a639a07e5c7766
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\1f\1f1d5baae1d26404a8a639a07e5c7766.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\1f\\1f1d5baae1d26404a8a639a07e5c7766.info"
-    projectPath: Library\metadata\1f\1f1d5baae1d26404a8a639a07e5c7766.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\1f\1f55b68dc282796488e1181ab0602967
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\1f\\1f55b68dc282796488e1181ab0602967"
-    projectPath: Library\metadata\1f\1f55b68dc282796488e1181ab0602967
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\1f\1f55b68dc282796488e1181ab0602967.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\1f\\1f55b68dc282796488e1181ab0602967.info"
-    projectPath: Library\metadata\1f\1f55b68dc282796488e1181ab0602967.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\20\20230a1dc8b2b4837bde0fe4b5ab254c
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\20\\20230a1dc8b2b4837bde0fe4b5ab254c"
-    projectPath: Library\metadata\20\20230a1dc8b2b4837bde0fe4b5ab254c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\20\20230a1dc8b2b4837bde0fe4b5ab254c.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\20\\20230a1dc8b2b4837bde0fe4b5ab254c.info"
-    projectPath: Library\metadata\20\20230a1dc8b2b4837bde0fe4b5ab254c.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\20\2036bfb19ee7bf7459df5591fe96e0e4
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\20\\2036bfb19ee7bf7459df5591fe96e0e4"
-    projectPath: Library\metadata\20\2036bfb19ee7bf7459df5591fe96e0e4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\20\2036bfb19ee7bf7459df5591fe96e0e4.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\20\\2036bfb19ee7bf7459df5591fe96e0e4.info"
-    projectPath: Library\metadata\20\2036bfb19ee7bf7459df5591fe96e0e4.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\21\212619aea848509449704f41e4a1d3f2
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\21\\212619aea848509449704f41e4a1d3f2"
-    projectPath: Library\metadata\21\212619aea848509449704f41e4a1d3f2
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\21\212619aea848509449704f41e4a1d3f2.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\21\\212619aea848509449704f41e4a1d3f2.info"
-    projectPath: Library\metadata\21\212619aea848509449704f41e4a1d3f2.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\26\266dee177694435468095e35de5218cc
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\26\\266dee177694435468095e35de5218cc"
-    projectPath: Library\metadata\26\266dee177694435468095e35de5218cc
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\26\266dee177694435468095e35de5218cc.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\26\\266dee177694435468095e35de5218cc.info"
-    projectPath: Library\metadata\26\266dee177694435468095e35de5218cc.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\27\27342824cec2ee64ab208b2396c0d82c
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\27\\27342824cec2ee64ab208b2396c0d82c"
-    projectPath: Library\metadata\27\27342824cec2ee64ab208b2396c0d82c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\27\27342824cec2ee64ab208b2396c0d82c.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\27\\27342824cec2ee64ab208b2396c0d82c.info"
-    projectPath: Library\metadata\27\27342824cec2ee64ab208b2396c0d82c.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\27\27d87a15bf86c4159800770927c9aa2f
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\27\\27d87a15bf86c4159800770927c9aa2f"
-    projectPath: Library\metadata\27\27d87a15bf86c4159800770927c9aa2f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\27\27d87a15bf86c4159800770927c9aa2f.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\27\\27d87a15bf86c4159800770927c9aa2f.info"
-    projectPath: Library\metadata\27\27d87a15bf86c4159800770927c9aa2f.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\2a\2a148c82c5cc8744a812f2f0f3739664
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\2a\\2a148c82c5cc8744a812f2f0f3739664"
-    projectPath: Library\metadata\2a\2a148c82c5cc8744a812f2f0f3739664
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\2a\2a148c82c5cc8744a812f2f0f3739664.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\2a\\2a148c82c5cc8744a812f2f0f3739664.info"
-    projectPath: Library\metadata\2a\2a148c82c5cc8744a812f2f0f3739664.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\2a\2ac0972e5f0b5439998e30db4f1ab9c3
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\2a\\2ac0972e5f0b5439998e30db4f1ab9c3"
-    projectPath: Library\metadata\2a\2ac0972e5f0b5439998e30db4f1ab9c3
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\2a\2ac0972e5f0b5439998e30db4f1ab9c3.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\2a\\2ac0972e5f0b5439998e30db4f1ab9c3.info"
-    projectPath: Library\metadata\2a\2ac0972e5f0b5439998e30db4f1ab9c3.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\2b\2b4a1682166e4434e8ee7c6f47115b43
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\2b\\2b4a1682166e4434e8ee7c6f47115b43"
-    projectPath: Library\metadata\2b\2b4a1682166e4434e8ee7c6f47115b43
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\2b\2b4a1682166e4434e8ee7c6f47115b43.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\2b\\2b4a1682166e4434e8ee7c6f47115b43.info"
-    projectPath: Library\metadata\2b\2b4a1682166e4434e8ee7c6f47115b43.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\2f\2f548ddb7d7b841a6b8a20693ef7a74b
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\2f\\2f548ddb7d7b841a6b8a20693ef7a74b"
-    projectPath: Library\metadata\2f\2f548ddb7d7b841a6b8a20693ef7a74b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\2f\2f548ddb7d7b841a6b8a20693ef7a74b.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\2f\\2f548ddb7d7b841a6b8a20693ef7a74b.info"
-    projectPath: Library\metadata\2f\2f548ddb7d7b841a6b8a20693ef7a74b.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\30\30db500b226a8014e82f9e1e39a78e15
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\30\\30db500b226a8014e82f9e1e39a78e15"
-    projectPath: Library\metadata\30\30db500b226a8014e82f9e1e39a78e15
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\30\30db500b226a8014e82f9e1e39a78e15.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\30\\30db500b226a8014e82f9e1e39a78e15.info"
-    projectPath: Library\metadata\30\30db500b226a8014e82f9e1e39a78e15.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\32\3252d5b9b2d549b44a5e7f6c348993b3
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\32\\3252d5b9b2d549b44a5e7f6c348993b3"
-    projectPath: Library\metadata\32\3252d5b9b2d549b44a5e7f6c348993b3
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\32\3252d5b9b2d549b44a5e7f6c348993b3.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\32\\3252d5b9b2d549b44a5e7f6c348993b3.info"
-    projectPath: Library\metadata\32\3252d5b9b2d549b44a5e7f6c348993b3.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\34\34314e90385267f47ad6fc2df40f0d16
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\34\\34314e90385267f47ad6fc2df40f0d16"
-    projectPath: Library\metadata\34\34314e90385267f47ad6fc2df40f0d16
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\34\34314e90385267f47ad6fc2df40f0d16.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\34\\34314e90385267f47ad6fc2df40f0d16.info"
-    projectPath: Library\metadata\34\34314e90385267f47ad6fc2df40f0d16.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\35\35868d7a76dde4354b3ea20c36f8fdf9
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\35\\35868d7a76dde4354b3ea20c36f8fdf9"
-    projectPath: Library\metadata\35\35868d7a76dde4354b3ea20c36f8fdf9
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\35\35868d7a76dde4354b3ea20c36f8fdf9.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\35\\35868d7a76dde4354b3ea20c36f8fdf9.info"
-    projectPath: Library\metadata\35\35868d7a76dde4354b3ea20c36f8fdf9.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\38\38a596ccbd20144369ac06fcbc2ce118
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\38\\38a596ccbd20144369ac06fcbc2ce118"
-    projectPath: Library\metadata\38\38a596ccbd20144369ac06fcbc2ce118
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\38\38a596ccbd20144369ac06fcbc2ce118.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\38\\38a596ccbd20144369ac06fcbc2ce118.info"
-    projectPath: Library\metadata\38\38a596ccbd20144369ac06fcbc2ce118.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\3c\3cc66b78ab25c204f9b4d415d02e3abe
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\3c\\3cc66b78ab25c204f9b4d415d02e3abe"
-    projectPath: Library\metadata\3c\3cc66b78ab25c204f9b4d415d02e3abe
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\3c\3cc66b78ab25c204f9b4d415d02e3abe.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\3c\\3cc66b78ab25c204f9b4d415d02e3abe.info"
-    projectPath: Library\metadata\3c\3cc66b78ab25c204f9b4d415d02e3abe.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\3e\3e7439b0348975a43b0dbc4121b11796
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\3e\\3e7439b0348975a43b0dbc4121b11796"
-    projectPath: Library\metadata\3e\3e7439b0348975a43b0dbc4121b11796
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\3e\3e7439b0348975a43b0dbc4121b11796.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\3e\\3e7439b0348975a43b0dbc4121b11796.info"
-    projectPath: Library\metadata\3e\3e7439b0348975a43b0dbc4121b11796.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\40\40116c4af15e1444f8e21d1de1f4678f
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\40\\40116c4af15e1444f8e21d1de1f4678f"
-    projectPath: Library\metadata\40\40116c4af15e1444f8e21d1de1f4678f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\40\40116c4af15e1444f8e21d1de1f4678f.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\40\\40116c4af15e1444f8e21d1de1f4678f.info"
-    projectPath: Library\metadata\40\40116c4af15e1444f8e21d1de1f4678f.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\4e\4eca2c57305a463498e29121923b5f2d
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\4e\\4eca2c57305a463498e29121923b5f2d"
-    projectPath: Library\metadata\4e\4eca2c57305a463498e29121923b5f2d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\4e\4eca2c57305a463498e29121923b5f2d.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\4e\\4eca2c57305a463498e29121923b5f2d.info"
-    projectPath: Library\metadata\4e\4eca2c57305a463498e29121923b5f2d.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\50\50ab5eea3a58b4ddeb99f0388a1d77c5
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\50\\50ab5eea3a58b4ddeb99f0388a1d77c5"
-    projectPath: Library\metadata\50\50ab5eea3a58b4ddeb99f0388a1d77c5
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\50\50ab5eea3a58b4ddeb99f0388a1d77c5.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\50\\50ab5eea3a58b4ddeb99f0388a1d77c5.info"
-    projectPath: Library\metadata\50\50ab5eea3a58b4ddeb99f0388a1d77c5.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\52\52dcb79a9cc8ae44984f5ba94e72f16b
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\52\\52dcb79a9cc8ae44984f5ba94e72f16b"
-    projectPath: Library\metadata\52\52dcb79a9cc8ae44984f5ba94e72f16b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\52\52dcb79a9cc8ae44984f5ba94e72f16b.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\52\\52dcb79a9cc8ae44984f5ba94e72f16b.info"
-    projectPath: Library\metadata\52\52dcb79a9cc8ae44984f5ba94e72f16b.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\52\52dcb79a9cc8ae44984f5ba94e72f16b.resource
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\52\\52dcb79a9cc8ae44984f5ba94e72f16b.resource"
-    projectPath: Library\metadata\52\52dcb79a9cc8ae44984f5ba94e72f16b.resource
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\59\591b223a720c0144daac2de979703d97
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\59\\591b223a720c0144daac2de979703d97"
-    projectPath: Library\metadata\59\591b223a720c0144daac2de979703d97
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\59\591b223a720c0144daac2de979703d97.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\59\\591b223a720c0144daac2de979703d97.info"
-    projectPath: Library\metadata\59\591b223a720c0144daac2de979703d97.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\5d\5d5b9ba23399f4d4f8de62cb70b9440f
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\5d\\5d5b9ba23399f4d4f8de62cb70b9440f"
-    projectPath: Library\metadata\5d\5d5b9ba23399f4d4f8de62cb70b9440f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\5d\5d5b9ba23399f4d4f8de62cb70b9440f.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\5d\\5d5b9ba23399f4d4f8de62cb70b9440f.info"
-    projectPath: Library\metadata\5d\5d5b9ba23399f4d4f8de62cb70b9440f.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\60\6056a68735ec3954f9a7454e53bba364
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\60\\6056a68735ec3954f9a7454e53bba364"
-    projectPath: Library\metadata\60\6056a68735ec3954f9a7454e53bba364
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\60\6056a68735ec3954f9a7454e53bba364.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\60\\6056a68735ec3954f9a7454e53bba364.info"
-    projectPath: Library\metadata\60\6056a68735ec3954f9a7454e53bba364.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\66\6610ac4b8457346ea809f21b89d27cce
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\66\\6610ac4b8457346ea809f21b89d27cce"
-    projectPath: Library\metadata\66\6610ac4b8457346ea809f21b89d27cce
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\66\6610ac4b8457346ea809f21b89d27cce.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\66\\6610ac4b8457346ea809f21b89d27cce.info"
-    projectPath: Library\metadata\66\6610ac4b8457346ea809f21b89d27cce.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\68\6858abb4516aae344881bf286b3aac33
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\68\\6858abb4516aae344881bf286b3aac33"
-    projectPath: Library\metadata\68\6858abb4516aae344881bf286b3aac33
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\68\6858abb4516aae344881bf286b3aac33.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\68\\6858abb4516aae344881bf286b3aac33.info"
-    projectPath: Library\metadata\68\6858abb4516aae344881bf286b3aac33.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\71\71f437cfa250a7d4a9cb2760386ed379
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\71\\71f437cfa250a7d4a9cb2760386ed379"
-    projectPath: Library\metadata\71\71f437cfa250a7d4a9cb2760386ed379
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\71\71f437cfa250a7d4a9cb2760386ed379.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\71\\71f437cfa250a7d4a9cb2760386ed379.info"
-    projectPath: Library\metadata\71\71f437cfa250a7d4a9cb2760386ed379.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\74\74069a396ef888d4ea96c33784281ac5
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\74\\74069a396ef888d4ea96c33784281ac5"
-    projectPath: Library\metadata\74\74069a396ef888d4ea96c33784281ac5
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\74\74069a396ef888d4ea96c33784281ac5.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\74\\74069a396ef888d4ea96c33784281ac5.info"
-    projectPath: Library\metadata\74\74069a396ef888d4ea96c33784281ac5.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\74\7461a7b0cf97947fd9b9e4502fd2d07b
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\74\\7461a7b0cf97947fd9b9e4502fd2d07b"
-    projectPath: Library\metadata\74\7461a7b0cf97947fd9b9e4502fd2d07b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\74\7461a7b0cf97947fd9b9e4502fd2d07b.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\74\\7461a7b0cf97947fd9b9e4502fd2d07b.info"
-    projectPath: Library\metadata\74\7461a7b0cf97947fd9b9e4502fd2d07b.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\76\7696221f0cbbc764498b26fbbf4228af
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\76\\7696221f0cbbc764498b26fbbf4228af"
-    projectPath: Library\metadata\76\7696221f0cbbc764498b26fbbf4228af
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\76\7696221f0cbbc764498b26fbbf4228af.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\76\\7696221f0cbbc764498b26fbbf4228af.info"
-    projectPath: Library\metadata\76\7696221f0cbbc764498b26fbbf4228af.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\7c\7cb2912222469634ba17a77055919ea8
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\7c\\7cb2912222469634ba17a77055919ea8"
-    projectPath: Library\metadata\7c\7cb2912222469634ba17a77055919ea8
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\7c\7cb2912222469634ba17a77055919ea8.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\7c\\7cb2912222469634ba17a77055919ea8.info"
-    projectPath: Library\metadata\7c\7cb2912222469634ba17a77055919ea8.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\80\8012ff454d5542d42b8e21afcc52ee2f
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\80\\8012ff454d5542d42b8e21afcc52ee2f"
-    projectPath: Library\metadata\80\8012ff454d5542d42b8e21afcc52ee2f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\80\8012ff454d5542d42b8e21afcc52ee2f.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\80\\8012ff454d5542d42b8e21afcc52ee2f.info"
-    projectPath: Library\metadata\80\8012ff454d5542d42b8e21afcc52ee2f.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\80\80ddf32a802416047aba2ba7b4872768
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\80\\80ddf32a802416047aba2ba7b4872768"
-    projectPath: Library\metadata\80\80ddf32a802416047aba2ba7b4872768
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\80\80ddf32a802416047aba2ba7b4872768.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\80\\80ddf32a802416047aba2ba7b4872768.info"
-    projectPath: Library\metadata\80\80ddf32a802416047aba2ba7b4872768.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\83\838436750d0cf48a685923371f66cea6
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\83\\838436750d0cf48a685923371f66cea6"
-    projectPath: Library\metadata\83\838436750d0cf48a685923371f66cea6
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\83\838436750d0cf48a685923371f66cea6.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\83\\838436750d0cf48a685923371f66cea6.info"
-    projectPath: Library\metadata\83\838436750d0cf48a685923371f66cea6.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\87\879f5ab2d2a90614db855e052b3e2f20
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\87\\879f5ab2d2a90614db855e052b3e2f20"
-    projectPath: Library\metadata\87\879f5ab2d2a90614db855e052b3e2f20
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\87\879f5ab2d2a90614db855e052b3e2f20.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\87\\879f5ab2d2a90614db855e052b3e2f20.info"
-    projectPath: Library\metadata\87\879f5ab2d2a90614db855e052b3e2f20.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\89\8934f7763af9e41ee8845ae14c5473f1
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\89\\8934f7763af9e41ee8845ae14c5473f1"
-    projectPath: Library\metadata\89\8934f7763af9e41ee8845ae14c5473f1
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\89\8934f7763af9e41ee8845ae14c5473f1.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\89\\8934f7763af9e41ee8845ae14c5473f1.info"
-    projectPath: Library\metadata\89\8934f7763af9e41ee8845ae14c5473f1.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\8a\8a0cab5ff0a9b465bbc169d7ad27a67f
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\8a\\8a0cab5ff0a9b465bbc169d7ad27a67f"
-    projectPath: Library\metadata\8a\8a0cab5ff0a9b465bbc169d7ad27a67f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\8a\8a0cab5ff0a9b465bbc169d7ad27a67f.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\8a\\8a0cab5ff0a9b465bbc169d7ad27a67f.info"
-    projectPath: Library\metadata\8a\8a0cab5ff0a9b465bbc169d7ad27a67f.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\8c\8ced7259e0f79b04185539c0fa69a4aa
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\8c\\8ced7259e0f79b04185539c0fa69a4aa"
-    projectPath: Library\metadata\8c\8ced7259e0f79b04185539c0fa69a4aa
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\8c\8ced7259e0f79b04185539c0fa69a4aa.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\8c\\8ced7259e0f79b04185539c0fa69a4aa.info"
-    projectPath: Library\metadata\8c\8ced7259e0f79b04185539c0fa69a4aa.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\8f\8fb70f3506a535246be122751945de67
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\8f\\8fb70f3506a535246be122751945de67"
-    projectPath: Library\metadata\8f\8fb70f3506a535246be122751945de67
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\8f\8fb70f3506a535246be122751945de67.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\8f\\8fb70f3506a535246be122751945de67.info"
-    projectPath: Library\metadata\8f\8fb70f3506a535246be122751945de67.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\91\91207f32a007d429180caa8fce010afd
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\91\\91207f32a007d429180caa8fce010afd"
-    projectPath: Library\metadata\91\91207f32a007d429180caa8fce010afd
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\91\91207f32a007d429180caa8fce010afd.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\91\\91207f32a007d429180caa8fce010afd.info"
-    projectPath: Library\metadata\91\91207f32a007d429180caa8fce010afd.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\93\935962ddb1e44499dad00e5ca6b38823
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\93\\935962ddb1e44499dad00e5ca6b38823"
-    projectPath: Library\metadata\93\935962ddb1e44499dad00e5ca6b38823
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\93\935962ddb1e44499dad00e5ca6b38823.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\93\\935962ddb1e44499dad00e5ca6b38823.info"
-    projectPath: Library\metadata\93\935962ddb1e44499dad00e5ca6b38823.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\96\966be606197166640a108ef53355eddf
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\96\\966be606197166640a108ef53355eddf"
-    projectPath: Library\metadata\96\966be606197166640a108ef53355eddf
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\96\966be606197166640a108ef53355eddf.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\96\\966be606197166640a108ef53355eddf.info"
-    projectPath: Library\metadata\96\966be606197166640a108ef53355eddf.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\96\967c7b47090d34cf090c40749e45f0b4
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\96\\967c7b47090d34cf090c40749e45f0b4"
-    projectPath: Library\metadata\96\967c7b47090d34cf090c40749e45f0b4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\96\967c7b47090d34cf090c40749e45f0b4.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\96\\967c7b47090d34cf090c40749e45f0b4.info"
-    projectPath: Library\metadata\96\967c7b47090d34cf090c40749e45f0b4.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\99\996ead54ac1e14316a77660d88da206d
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\99\\996ead54ac1e14316a77660d88da206d"
-    projectPath: Library\metadata\99\996ead54ac1e14316a77660d88da206d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\99\996ead54ac1e14316a77660d88da206d.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\99\\996ead54ac1e14316a77660d88da206d.info"
-    projectPath: Library\metadata\99\996ead54ac1e14316a77660d88da206d.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\99\99f0010d5c06d0848940953d17161f8e
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\99\\99f0010d5c06d0848940953d17161f8e"
-    projectPath: Library\metadata\99\99f0010d5c06d0848940953d17161f8e
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\99\99f0010d5c06d0848940953d17161f8e.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\99\\99f0010d5c06d0848940953d17161f8e.info"
-    projectPath: Library\metadata\99\99f0010d5c06d0848940953d17161f8e.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\9a\9a32a6cc2cb803443983d45d4a513506
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\9a\\9a32a6cc2cb803443983d45d4a513506"
-    projectPath: Library\metadata\9a\9a32a6cc2cb803443983d45d4a513506
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\9a\9a32a6cc2cb803443983d45d4a513506.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\9a\\9a32a6cc2cb803443983d45d4a513506.info"
-    projectPath: Library\metadata\9a\9a32a6cc2cb803443983d45d4a513506.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\9a\9a4f8345bee404e36b84d948cd29fb8b
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\9a\\9a4f8345bee404e36b84d948cd29fb8b"
-    projectPath: Library\metadata\9a\9a4f8345bee404e36b84d948cd29fb8b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\9a\9a4f8345bee404e36b84d948cd29fb8b.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\9a\\9a4f8345bee404e36b84d948cd29fb8b.info"
-    projectPath: Library\metadata\9a\9a4f8345bee404e36b84d948cd29fb8b.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\9b\9b455907c7b411a489c14c449174606f
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\9b\\9b455907c7b411a489c14c449174606f"
-    projectPath: Library\metadata\9b\9b455907c7b411a489c14c449174606f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\9b\9b455907c7b411a489c14c449174606f.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\9b\\9b455907c7b411a489c14c449174606f.info"
-    projectPath: Library\metadata\9b\9b455907c7b411a489c14c449174606f.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\9e\9e3f0765f3440a541951dd9223a17825
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\9e\\9e3f0765f3440a541951dd9223a17825"
-    projectPath: Library\metadata\9e\9e3f0765f3440a541951dd9223a17825
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\9e\9e3f0765f3440a541951dd9223a17825.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\9e\\9e3f0765f3440a541951dd9223a17825.info"
-    projectPath: Library\metadata\9e\9e3f0765f3440a541951dd9223a17825.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a1\a1a76cb6763ca8a4ab0450fc989edb19
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\a1\\a1a76cb6763ca8a4ab0450fc989edb19"
-    projectPath: Library\metadata\a1\a1a76cb6763ca8a4ab0450fc989edb19
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a1\a1a76cb6763ca8a4ab0450fc989edb19.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\a1\\a1a76cb6763ca8a4ab0450fc989edb19.info"
-    projectPath: Library\metadata\a1\a1a76cb6763ca8a4ab0450fc989edb19.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a5\a5289e1b1e8a120488785ae4de0f89ee
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\a5\\a5289e1b1e8a120488785ae4de0f89ee"
-    projectPath: Library\metadata\a5\a5289e1b1e8a120488785ae4de0f89ee
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a5\a5289e1b1e8a120488785ae4de0f89ee.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\a5\\a5289e1b1e8a120488785ae4de0f89ee.info"
-    projectPath: Library\metadata\a5\a5289e1b1e8a120488785ae4de0f89ee.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a8\a831a70874cc6734d92149fbeadd840c
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\a8\\a831a70874cc6734d92149fbeadd840c"
-    projectPath: Library\metadata\a8\a831a70874cc6734d92149fbeadd840c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a8\a831a70874cc6734d92149fbeadd840c.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\a8\\a831a70874cc6734d92149fbeadd840c.info"
-    projectPath: Library\metadata\a8\a831a70874cc6734d92149fbeadd840c.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a9\a93c012dd9ef6454fa7d140e976926f7
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\a9\\a93c012dd9ef6454fa7d140e976926f7"
-    projectPath: Library\metadata\a9\a93c012dd9ef6454fa7d140e976926f7
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a9\a93c012dd9ef6454fa7d140e976926f7.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\a9\\a93c012dd9ef6454fa7d140e976926f7.info"
-    projectPath: Library\metadata\a9\a93c012dd9ef6454fa7d140e976926f7.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a9\a95e0a044abfc473394c6c61eb343e4a
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\a9\\a95e0a044abfc473394c6c61eb343e4a"
-    projectPath: Library\metadata\a9\a95e0a044abfc473394c6c61eb343e4a
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a9\a95e0a044abfc473394c6c61eb343e4a.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\a9\\a95e0a044abfc473394c6c61eb343e4a.info"
-    projectPath: Library\metadata\a9\a95e0a044abfc473394c6c61eb343e4a.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ac\ac97bb12f664be548ae3283d4687f9bf
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\ac\\ac97bb12f664be548ae3283d4687f9bf"
-    projectPath: Library\metadata\ac\ac97bb12f664be548ae3283d4687f9bf
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ac\ac97bb12f664be548ae3283d4687f9bf.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\ac\\ac97bb12f664be548ae3283d4687f9bf.info"
-    projectPath: Library\metadata\ac\ac97bb12f664be548ae3283d4687f9bf.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ac\acd5fac7403fe184b870fd9b8d0fa262
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\ac\\acd5fac7403fe184b870fd9b8d0fa262"
-    projectPath: Library\metadata\ac\acd5fac7403fe184b870fd9b8d0fa262
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ac\acd5fac7403fe184b870fd9b8d0fa262.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\ac\\acd5fac7403fe184b870fd9b8d0fa262.info"
-    projectPath: Library\metadata\ac\acd5fac7403fe184b870fd9b8d0fa262.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\b0\b0eb721fa5d008e4283a54ab605d0bf4
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\b0\\b0eb721fa5d008e4283a54ab605d0bf4"
-    projectPath: Library\metadata\b0\b0eb721fa5d008e4283a54ab605d0bf4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\b0\b0eb721fa5d008e4283a54ab605d0bf4.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\b0\\b0eb721fa5d008e4283a54ab605d0bf4.info"
-    projectPath: Library\metadata\b0\b0eb721fa5d008e4283a54ab605d0bf4.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\b2\b2099e5a0c53be140a3513bcb9e3ea13
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\b2\\b2099e5a0c53be140a3513bcb9e3ea13"
-    projectPath: Library\metadata\b2\b2099e5a0c53be140a3513bcb9e3ea13
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\b2\b2099e5a0c53be140a3513bcb9e3ea13.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\b2\\b2099e5a0c53be140a3513bcb9e3ea13.info"
-    projectPath: Library\metadata\b2\b2099e5a0c53be140a3513bcb9e3ea13.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\b4\b4cc44d390fb3b442a5aa52028754572
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\b4\\b4cc44d390fb3b442a5aa52028754572"
-    projectPath: Library\metadata\b4\b4cc44d390fb3b442a5aa52028754572
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\b4\b4cc44d390fb3b442a5aa52028754572.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\b4\\b4cc44d390fb3b442a5aa52028754572.info"
-    projectPath: Library\metadata\b4\b4cc44d390fb3b442a5aa52028754572.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\b6\b6a1cf4e3eeaf9a4ca38bf8acb910a6d
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\b6\\b6a1cf4e3eeaf9a4ca38bf8acb910a6d"
-    projectPath: Library\metadata\b6\b6a1cf4e3eeaf9a4ca38bf8acb910a6d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\b6\b6a1cf4e3eeaf9a4ca38bf8acb910a6d.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\b6\\b6a1cf4e3eeaf9a4ca38bf8acb910a6d.info"
-    projectPath: Library\metadata\b6\b6a1cf4e3eeaf9a4ca38bf8acb910a6d.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\b8\b895a589a253443a9ac85bafa7402a65
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\b8\\b895a589a253443a9ac85bafa7402a65"
-    projectPath: Library\metadata\b8\b895a589a253443a9ac85bafa7402a65
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\b8\b895a589a253443a9ac85bafa7402a65.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\b8\\b895a589a253443a9ac85bafa7402a65.info"
-    projectPath: Library\metadata\b8\b895a589a253443a9ac85bafa7402a65.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\b8\b8960321e10f80b4c844cd91bf1ea437
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\b8\\b8960321e10f80b4c844cd91bf1ea437"
-    projectPath: Library\metadata\b8\b8960321e10f80b4c844cd91bf1ea437
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\b8\b8960321e10f80b4c844cd91bf1ea437.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\b8\\b8960321e10f80b4c844cd91bf1ea437.info"
-    projectPath: Library\metadata\b8\b8960321e10f80b4c844cd91bf1ea437.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ba\baec4a3518be3474183350e92b479a66
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\ba\\baec4a3518be3474183350e92b479a66"
-    projectPath: Library\metadata\ba\baec4a3518be3474183350e92b479a66
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ba\baec4a3518be3474183350e92b479a66.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\ba\\baec4a3518be3474183350e92b479a66.info"
-    projectPath: Library\metadata\ba\baec4a3518be3474183350e92b479a66.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\bb\bb3e338899432408a9491440d7123e65
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\bb\\bb3e338899432408a9491440d7123e65"
-    projectPath: Library\metadata\bb\bb3e338899432408a9491440d7123e65
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\bb\bb3e338899432408a9491440d7123e65.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\bb\\bb3e338899432408a9491440d7123e65.info"
-    projectPath: Library\metadata\bb\bb3e338899432408a9491440d7123e65.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\bd\bdf784713333a4b24860228711510eac
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\bd\\bdf784713333a4b24860228711510eac"
-    projectPath: Library\metadata\bd\bdf784713333a4b24860228711510eac
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\bd\bdf784713333a4b24860228711510eac.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\bd\\bdf784713333a4b24860228711510eac.info"
-    projectPath: Library\metadata\bd\bdf784713333a4b24860228711510eac.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\be\be0d6a45537a1a64e9e6c4ce47a2d58a
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\be\\be0d6a45537a1a64e9e6c4ce47a2d58a"
-    projectPath: Library\metadata\be\be0d6a45537a1a64e9e6c4ce47a2d58a
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\be\be0d6a45537a1a64e9e6c4ce47a2d58a.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\be\\be0d6a45537a1a64e9e6c4ce47a2d58a.info"
-    projectPath: Library\metadata\be\be0d6a45537a1a64e9e6c4ce47a2d58a.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c2\c20df1a94a5e7bd45bcbf8423ecef897
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\c2\\c20df1a94a5e7bd45bcbf8423ecef897"
-    projectPath: Library\metadata\c2\c20df1a94a5e7bd45bcbf8423ecef897
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c2\c20df1a94a5e7bd45bcbf8423ecef897.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\c2\\c20df1a94a5e7bd45bcbf8423ecef897.info"
-    projectPath: Library\metadata\c2\c20df1a94a5e7bd45bcbf8423ecef897.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c3\c31676a79c05841fb82b113e2fb3d45c
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\c3\\c31676a79c05841fb82b113e2fb3d45c"
-    projectPath: Library\metadata\c3\c31676a79c05841fb82b113e2fb3d45c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c3\c31676a79c05841fb82b113e2fb3d45c.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\c3\\c31676a79c05841fb82b113e2fb3d45c.info"
-    projectPath: Library\metadata\c3\c31676a79c05841fb82b113e2fb3d45c.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c4\c454080d636f840038dc8f37941751b3
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\c4\\c454080d636f840038dc8f37941751b3"
-    projectPath: Library\metadata\c4\c454080d636f840038dc8f37941751b3
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c4\c454080d636f840038dc8f37941751b3.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\c4\\c454080d636f840038dc8f37941751b3.info"
-    projectPath: Library\metadata\c4\c454080d636f840038dc8f37941751b3.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c5\c599eb92d2421fb43b5f505f90ced312
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\c5\\c599eb92d2421fb43b5f505f90ced312"
-    projectPath: Library\metadata\c5\c599eb92d2421fb43b5f505f90ced312
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c5\c599eb92d2421fb43b5f505f90ced312.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\c5\\c599eb92d2421fb43b5f505f90ced312.info"
-    projectPath: Library\metadata\c5\c599eb92d2421fb43b5f505f90ced312.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c5\c5b01eb497714c1449cb2df46eb5ac6f
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\c5\\c5b01eb497714c1449cb2df46eb5ac6f"
-    projectPath: Library\metadata\c5\c5b01eb497714c1449cb2df46eb5ac6f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c5\c5b01eb497714c1449cb2df46eb5ac6f.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\c5\\c5b01eb497714c1449cb2df46eb5ac6f.info"
-    projectPath: Library\metadata\c5\c5b01eb497714c1449cb2df46eb5ac6f.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c9\c94d2031ae1744c498909db277f8a9e2
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\c9\\c94d2031ae1744c498909db277f8a9e2"
-    projectPath: Library\metadata\c9\c94d2031ae1744c498909db277f8a9e2
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c9\c94d2031ae1744c498909db277f8a9e2.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\c9\\c94d2031ae1744c498909db277f8a9e2.info"
-    projectPath: Library\metadata\c9\c94d2031ae1744c498909db277f8a9e2.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ca\ca08d563202ee2d409eb27ccb3241b21
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\ca\\ca08d563202ee2d409eb27ccb3241b21"
-    projectPath: Library\metadata\ca\ca08d563202ee2d409eb27ccb3241b21
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ca\ca08d563202ee2d409eb27ccb3241b21.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\ca\\ca08d563202ee2d409eb27ccb3241b21.info"
-    projectPath: Library\metadata\ca\ca08d563202ee2d409eb27ccb3241b21.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\d5\d5545059c6381d848ab3d612c68f2669
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\d5\\d5545059c6381d848ab3d612c68f2669"
-    projectPath: Library\metadata\d5\d5545059c6381d848ab3d612c68f2669
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\d5\d5545059c6381d848ab3d612c68f2669.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\d5\\d5545059c6381d848ab3d612c68f2669.info"
-    projectPath: Library\metadata\d5\d5545059c6381d848ab3d612c68f2669.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\d5\d56722fd7cc841042bfafe48130cf5d8
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\d5\\d56722fd7cc841042bfafe48130cf5d8"
-    projectPath: Library\metadata\d5\d56722fd7cc841042bfafe48130cf5d8
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\d5\d56722fd7cc841042bfafe48130cf5d8.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\d5\\d56722fd7cc841042bfafe48130cf5d8.info"
-    projectPath: Library\metadata\d5\d56722fd7cc841042bfafe48130cf5d8.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\d8\d8ccdf9e3ac244697bf9b5e32203fa96
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\d8\\d8ccdf9e3ac244697bf9b5e32203fa96"
-    projectPath: Library\metadata\d8\d8ccdf9e3ac244697bf9b5e32203fa96
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\d8\d8ccdf9e3ac244697bf9b5e32203fa96.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\d8\\d8ccdf9e3ac244697bf9b5e32203fa96.info"
-    projectPath: Library\metadata\d8\d8ccdf9e3ac244697bf9b5e32203fa96.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\dd\dd8c80a5a447f04418da146781b05fd8
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\dd\\dd8c80a5a447f04418da146781b05fd8"
-    projectPath: Library\metadata\dd\dd8c80a5a447f04418da146781b05fd8
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\dd\dd8c80a5a447f04418da146781b05fd8.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\dd\\dd8c80a5a447f04418da146781b05fd8.info"
-    projectPath: Library\metadata\dd\dd8c80a5a447f04418da146781b05fd8.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\de\de769b24045b0554ab900d313edd10c7
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\de\\de769b24045b0554ab900d313edd10c7"
-    projectPath: Library\metadata\de\de769b24045b0554ab900d313edd10c7
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\de\de769b24045b0554ab900d313edd10c7.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\de\\de769b24045b0554ab900d313edd10c7.info"
-    projectPath: Library\metadata\de\de769b24045b0554ab900d313edd10c7.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\e1\e18126576915f8146af49e3910b4809f
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\e1\\e18126576915f8146af49e3910b4809f"
-    projectPath: Library\metadata\e1\e18126576915f8146af49e3910b4809f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\e1\e18126576915f8146af49e3910b4809f.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\e1\\e18126576915f8146af49e3910b4809f.info"
-    projectPath: Library\metadata\e1\e18126576915f8146af49e3910b4809f.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\e3\e31151469f9db41bb99384b804f43c3d
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\e3\\e31151469f9db41bb99384b804f43c3d"
-    projectPath: Library\metadata\e3\e31151469f9db41bb99384b804f43c3d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\e3\e31151469f9db41bb99384b804f43c3d.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\e3\\e31151469f9db41bb99384b804f43c3d.info"
-    projectPath: Library\metadata\e3\e31151469f9db41bb99384b804f43c3d.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\e3\e3a5123eeaeabcb47b68c25bd63af922
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\e3\\e3a5123eeaeabcb47b68c25bd63af922"
-    projectPath: Library\metadata\e3\e3a5123eeaeabcb47b68c25bd63af922
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\e3\e3a5123eeaeabcb47b68c25bd63af922.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\e3\\e3a5123eeaeabcb47b68c25bd63af922.info"
-    projectPath: Library\metadata\e3\e3a5123eeaeabcb47b68c25bd63af922.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\e4\e484876f0cfbe8d46981ae0062b5e77f
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\e4\\e484876f0cfbe8d46981ae0062b5e77f"
-    projectPath: Library\metadata\e4\e484876f0cfbe8d46981ae0062b5e77f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\e4\e484876f0cfbe8d46981ae0062b5e77f.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\e4\\e484876f0cfbe8d46981ae0062b5e77f.info"
-    projectPath: Library\metadata\e4\e484876f0cfbe8d46981ae0062b5e77f.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\e7\e7b4b73a0b041314f856b13bf63f0b84
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\e7\\e7b4b73a0b041314f856b13bf63f0b84"
-    projectPath: Library\metadata\e7\e7b4b73a0b041314f856b13bf63f0b84
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\e7\e7b4b73a0b041314f856b13bf63f0b84.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\e7\\e7b4b73a0b041314f856b13bf63f0b84.info"
-    projectPath: Library\metadata\e7\e7b4b73a0b041314f856b13bf63f0b84.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ee\ee7104d2ffb92f84a9d1ac3411c1c12f
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\ee\\ee7104d2ffb92f84a9d1ac3411c1c12f"
-    projectPath: Library\metadata\ee\ee7104d2ffb92f84a9d1ac3411c1c12f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ee\ee7104d2ffb92f84a9d1ac3411c1c12f.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\ee\\ee7104d2ffb92f84a9d1ac3411c1c12f.info"
-    projectPath: Library\metadata\ee\ee7104d2ffb92f84a9d1ac3411c1c12f.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\f3\f380765f06574468792284654c96955a
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\f3\\f380765f06574468792284654c96955a"
-    projectPath: Library\metadata\f3\f380765f06574468792284654c96955a
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\f3\f380765f06574468792284654c96955a.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\f3\\f380765f06574468792284654c96955a.info"
-    projectPath: Library\metadata\f3\f380765f06574468792284654c96955a.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\f4\f44d0ca8767b76d43a5e1155e7189c0f
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\f4\\f44d0ca8767b76d43a5e1155e7189c0f"
-    projectPath: Library\metadata\f4\f44d0ca8767b76d43a5e1155e7189c0f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\f4\f44d0ca8767b76d43a5e1155e7189c0f.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\f4\\f44d0ca8767b76d43a5e1155e7189c0f.info"
-    projectPath: Library\metadata\f4\f44d0ca8767b76d43a5e1155e7189c0f.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\f4\f4c899d39b015484a9b4e5464802e401
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\f4\\f4c899d39b015484a9b4e5464802e401"
-    projectPath: Library\metadata\f4\f4c899d39b015484a9b4e5464802e401
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\f4\f4c899d39b015484a9b4e5464802e401.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\f4\\f4c899d39b015484a9b4e5464802e401.info"
-    projectPath: Library\metadata\f4\f4c899d39b015484a9b4e5464802e401.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\f7\f7590198924b11e47b1b33cdd7ec91ac
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\f7\\f7590198924b11e47b1b33cdd7ec91ac"
-    projectPath: Library\metadata\f7\f7590198924b11e47b1b33cdd7ec91ac
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\f7\f7590198924b11e47b1b33cdd7ec91ac.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\f7\\f7590198924b11e47b1b33cdd7ec91ac.info"
-    projectPath: Library\metadata\f7\f7590198924b11e47b1b33cdd7ec91ac.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\fa\fa0913115ac1d4fba8b9d10280f4b04d
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\fa\\fa0913115ac1d4fba8b9d10280f4b04d"
-    projectPath: Library\metadata\fa\fa0913115ac1d4fba8b9d10280f4b04d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\fa\fa0913115ac1d4fba8b9d10280f4b04d.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\fa\\fa0913115ac1d4fba8b9d10280f4b04d.info"
-    projectPath: Library\metadata\fa\fa0913115ac1d4fba8b9d10280f4b04d.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\fb\fb4c238cec465db409e919652b17057c
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\fb\\fb4c238cec465db409e919652b17057c"
-    projectPath: Library\metadata\fb\fb4c238cec465db409e919652b17057c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\fb\fb4c238cec465db409e919652b17057c.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\fb\\fb4c238cec465db409e919652b17057c.info"
-    projectPath: Library\metadata\fb\fb4c238cec465db409e919652b17057c.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\fb\fbd43b6b1a5f6924a97a00d9bdb0e05a
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\fb\\fbd43b6b1a5f6924a97a00d9bdb0e05a"
-    projectPath: Library\metadata\fb\fbd43b6b1a5f6924a97a00d9bdb0e05a
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\fb\fbd43b6b1a5f6924a97a00d9bdb0e05a.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\fb\\fbd43b6b1a5f6924a97a00d9bdb0e05a.info"
-    projectPath: Library\metadata\fb\fbd43b6b1a5f6924a97a00d9bdb0e05a.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\fc\fccea209f9ea7b1488225287813f4e38
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\fc\\fccea209f9ea7b1488225287813f4e38"
-    projectPath: Library\metadata\fc\fccea209f9ea7b1488225287813f4e38
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\fc\fccea209f9ea7b1488225287813f4e38.info
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Library\\metadata\\fc\\fccea209f9ea7b1488225287813f4e38.info"
-    projectPath: Library\metadata\fc\fccea209f9ea7b1488225287813f4e38.info
+  - path: PJS4.csproj
+    fullPath: D:\IUT_INFO\Annee2\PJS4\PJS4.csproj
+    projectPath: PJS4.csproj
     originalPath: 
     status: 1
     staged: 0
   - path: Temp\UnityLockfile
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Temp\\UnityLockfile"
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-dc87146b3b9b8684fa85761f68f771bc
-    fullPath: "D:\\IUT_INFO\\Ann\xE9e2\\PJS4\\Temp\\UnityTempFile-dc87146b3b9b8684fa85761f68f771bc"
-    projectPath: Temp\UnityTempFile-dc87146b3b9b8684fa85761f68f771bc
+  - path: Temp\UnityTempFile-82711b73927f9034dbc3ec863a33f50b
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Temp\UnityTempFile-82711b73927f9034dbc3ec863a33f50b
+    projectPath: Temp\UnityTempFile-82711b73927f9034dbc3ec863a33f50b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-8577a809847dc7b4384a1fb13eac37d1
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Temp\UnityTempFile-8577a809847dc7b4384a1fb13eac37d1
+    projectPath: Temp\UnityTempFile-8577a809847dc7b4384a1fb13eac37d1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e170a766d36918b4eacb6921cce201f1
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Temp\UnityTempFile-e170a766d36918b4eacb6921cce201f1
+    projectPath: Temp\UnityTempFile-e170a766d36918b4eacb6921cce201f1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityVS_obj\Debug\PJS4.csproj.CoreCompileInputs.cache
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Temp\UnityVS_obj\Debug\PJS4.csproj.CoreCompileInputs.cache
+    projectPath: Temp\UnityVS_obj\Debug\PJS4.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: D:\IUT_INFO\Annee2\PJS4\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     status: 1
     staged: 0
