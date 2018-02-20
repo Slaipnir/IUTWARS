@@ -298,6 +298,7 @@
     <Compile Include="Assets\AssetMenu\Scripts\DragMe.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\DragPanel.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\DropMe.cs" />
+    <Compile Include="Assets\AssetMenu\Scripts\MainMenu.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\PanelManager.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\ResizePanel.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\ScrollDetailTexture.cs" />
