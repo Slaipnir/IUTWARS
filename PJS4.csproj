@@ -294,15 +294,16 @@
     <Compile Include="Assets\AssetMenu\Scripts\ActiveStateToggler.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\ApplicationManager.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\ChangeColor.cs" />
+    <Compile Include="Assets\AssetMenu\Scripts\DataSave.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\DragMe.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\DragPanel.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\DropMe.cs" />
-    <Compile Include="Assets\AssetMenu\Scripts\MainMenu.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\PanelManager.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\ResizePanel.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\ScrollDetailTexture.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\ShowSliderValue.cs" />
     <Compile Include="Assets\AssetMenu\Scripts\TiltWindow.cs" />
+    <Compile Include="Assets\MainMenu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\AssetMenu\Materials\UI-Default-No-Alpha.shader" />
