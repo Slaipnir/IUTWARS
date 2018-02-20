@@ -5,7 +5,7 @@ using System.IO;
 
 public class DataSave : EditorWindow {
 
-    private string gameDataProjectFilePath = 
+    private string gameDataProjectFilePath = "/Data/save.json";
 
     private void LoadGameData()
     {
