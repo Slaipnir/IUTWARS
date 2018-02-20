@@ -63,7 +63,11 @@
      <Compile Include="Assets\AssetMenu\Scripts\ScrollDetailTexture.cs" />
      <Compile Include="Assets\AssetMenu\Scripts\ShowSliderValue.cs" />
      <Compile Include="Assets\AssetMenu\Scripts\TiltWindow.cs" />
+     <Compile Include="Assets\Fonts\REMPLI.cs" />
+     <Compile Include="Assets\Images\Scripts\REMPLI.cs" />
      <Compile Include="Assets\MainMenu.cs" />
+     <Compile Include="Assets\Scripts\REMPLISS.cs" />
+     <Compile Include="Assets\Textures and Sprites\REMPLIS.cs" />
      <None Include="Assets\AssetMenu\Materials\UI-Default-No-Alpha.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
