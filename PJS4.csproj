@@ -268,45 +268,6 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
-    <Reference Include="AsyncBridge.Net35">
-      <HintPath>Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll</HintPath>
-    </Reference>
-    <Reference Include="DotNetHttp35">
-      <HintPath>Assets/Plugins/GitHub/Editor/DotNetHttp35.dll</HintPath>
-    </Reference>
-    <Reference Include="GitHub.Api">
-      <HintPath>Assets/Plugins/GitHub/Editor/GitHub.Api.dll</HintPath>
-    </Reference>
-    <Reference Include="GitHub.Logging">
-      <HintPath>Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
-    </Reference>
-    <Reference Include="GitHub.Unity">
-      <HintPath>Assets/Plugins/GitHub/Editor/GitHub.Unity.dll</HintPath>
-    </Reference>
-    <Reference Include="ICSharpCode.SharpZipLib">
-      <HintPath>Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll</HintPath>
-    </Reference>
-    <Reference Include="Mono.Posix">
-      <HintPath>Assets/Plugins/GitHub/Editor/Mono.Posix.dll</HintPath>
-    </Reference>
-    <Reference Include="Mono.Security">
-      <HintPath>Assets/Plugins/GitHub/Editor/Mono.Security.dll</HintPath>
-    </Reference>
-    <Reference Include="Octokit">
-      <HintPath>Assets/Plugins/GitHub/Editor/Octokit.dll</HintPath>
-    </Reference>
-    <Reference Include="Rackspace.Threading">
-      <HintPath>Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll</HintPath>
-    </Reference>
-    <Reference Include="ReadOnlyCollectionsInterfaces">
-      <HintPath>Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll</HintPath>
-    </Reference>
-    <Reference Include="sfw.net">
-      <HintPath>Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Threading">
-      <HintPath>Assets/Plugins/GitHub/Editor/System.Threading.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.Advertisements">
       <HintPath>C:/Users/pvill/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
     </Reference>
@@ -345,11 +306,7 @@
     <Compile Include="Assets\MainMenu.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\AssetMenu\Fonts\Jupiter\LICENSE.txt" />
     <None Include="Assets\AssetMenu\Materials\UI-Default-No-Alpha.shader" />
-    <None Include="Assets\AssetMenu\Textures and Sprites\SF UI\Background\LICENSE.txt" />
-    <None Include="Assets\Plugins\GitHub\Editor\CREDITS.txt" />
-    <None Include="Assets\Plugins\GitHub\Editor\EULA.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
